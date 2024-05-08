@@ -1,6 +1,0 @@
-title = "Upstreet AI"
-sub_ecosystems = []
-github_organizations = []
-[[repo]]
-url = "https://github.com/UpstreetAI/upstreet-ic-login"
-
