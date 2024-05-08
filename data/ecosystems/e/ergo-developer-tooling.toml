@@ -691,8 +691,6 @@ url = "https://github.com/satsen/ergodocs"
 [[repo]]
 url = "https://github.com/satsen/yoroi-ergo-wallet-recover"
 
-[[repo]]
-url = "https://github.com/SavonarolaLabs/escript-online"
 
 [[repo]]
 url = "https://github.com/scalahub/AgeUSD"
