@@ -1,4 +1,6 @@
+# Ecosystem Level Information
 title = "Internet Computer"
+
 sub_ecosystems = [
   "4EVERLAND",
   "55 Foundry",
@@ -11,6 +13,7 @@ sub_ecosystems = [
   "BeamFi",
   "Bitfinity Network",
   "Blocks.",
+  "Blueberry",
   "Bochsler Tech",
   "BOOM DAO",
   "C B Elite",
@@ -23,8 +26,10 @@ sub_ecosystems = [
   "Civol-IC",
   "Code & State",
   "codebase labs",
+  "CodeGov",
   "contentflydapp",
   "Crowdfund NFT",
+  "CrowdGov",
   "CycleOps",
   "dCentra-io",
   "DeckDeckGo",
@@ -35,6 +40,7 @@ sub_ecosystems = [
   "DFINITY",
   "DFINITY Explorer",
   "DFINITY Lab",
+  "DFINITY Sandbox",
   "DFINITY Side Projects",
   "dmail-core",
   "DO tech alpha",
@@ -56,6 +62,9 @@ sub_ecosystems = [
   "glue-org",
   "go-bazzinga",
   "Gold DAO",
+  "hack.bg",
+  "Helios Labs",
+  "Helix-ex",
   "HomeLess Mint NFT",
   "HorizonX",
   "Hot or Not",
@@ -100,10 +109,12 @@ sub_ecosystems = [
   "NFT Cat",
   "NnsDAO Labs",
   "NOBLEBLOCKS",
+  "Octopus Network",
   "Omnia Network",
   "One Hill Technologies",
   "Open IC",
   "open-chat-labs",
+  "OpenHireHub",
   "Orally",
   "ORIGYN SA",
   "PanIndustrial-Org",
@@ -114,6 +125,8 @@ sub_ecosystems = [
   "QuerioDAO",
   "Quezar",
   "Rakeoff",
+  "RankRadarICP",
+  "ReCheck",
   "Rocklabs",
   "Saga Cards",
   "sailfish app",
@@ -126,12 +139,15 @@ sub_ecosystems = [
   "Taggr Network",
   "Team Bonsai",
   "TeraBlock",
+  "Tigris-Trade",
   "Toniq Labs",
   "Trax",
   "Triip Protocol",
   "TriipMiles",
   "Tswaanda",
   "Umi",
+  "UncensoredGreats",
+  "Upstreet AI",
   "usergeek",
   "Usher Labs",
   "VerifiedGiveaways",
@@ -142,29 +158,17 @@ sub_ecosystems = [
   "webi ai",
   "World of Unreal",
   "XP Network",
-  "Zondax",
-  "CrowdGov",
-  "Helios Labs",
-  "Helix-ex",
-  "Internet Computer",
-  "RankRadarICP",
-  "Tigris-Trade",
-  "DFINITY Sandbox",
-  "Octopus Network",
-  "CodeGov",
-  "Upstreet AI",
-  "Blueberry",
-  "hack",
-  "UncensoredGreats",
-  "OpenHireHub",
-  "ReCheck",
   "zCloak Network",
+  "Zondax",
 ]
+
 github_organizations = [
   "https://github.com/dfinity",
   "https://github.com/dragginzgame",
   "https://github.com/sailfish-app",
 ]
+
+# Repositories
 [[repo]]
 url = "https://github.com/0-anshu-4/Anshu"
 
@@ -188,6 +192,9 @@ url = "https://github.com/093b/generated"
 
 [[repo]]
 url = "https://github.com/0ji3/ic-static-site"
+
+[[repo]]
+url = "https://github.com/0k-0k/water-conservation-monitor"
 
 [[repo]]
 url = "https://github.com/0smak/motokobootcamp2023"
@@ -285,6 +292,15 @@ url = "https://github.com/0xtokens/awesome-blockchain"
 [[repo]]
 url = "https://github.com/0xYGicp/Dfinity_II_login"
 missing = true
+
+[[repo]]
+url = "https://github.com/0xzre/icp-1"
+
+[[repo]]
+url = "https://github.com/0xzre/icp-2"
+
+[[repo]]
+url = "https://github.com/1-Rishav/OpenD"
 
 [[repo]]
 url = "https://github.com/1082-xyz/ic-china"
@@ -537,6 +553,9 @@ url = "https://github.com/abdreams/Keeper-app-Blockchain"
 url = "https://github.com/abdreams/OpenD-NFT-Marketplace"
 
 [[repo]]
+url = "https://github.com/abdul-abdi/loan-application-system"
+
+[[repo]]
 url = "https://github.com/abdul-abdi/Proposal"
 
 [[repo]]
@@ -663,7 +682,19 @@ url = "https://github.com/Absar11/Dbank"
 url = "https://github.com/abueno19/motoko"
 
 [[repo]]
+url = "https://github.com/abundance-io/propspace"
+
+[[repo]]
+url = "https://github.com/abundance-io/secretpay_ledger"
+
+[[repo]]
+url = "https://github.com/acaentequila/ethcdm-reservations"
+
+[[repo]]
 url = "https://github.com/ACHINTYABHATIA/BLOCKBASH"
+
+[[repo]]
+url = "https://github.com/achmadst/VoteContract"
 
 [[repo]]
 url = "https://github.com/acludo2/ckPayment"
@@ -698,6 +729,9 @@ url = "https://github.com/adam0000345/TestProject"
 
 [[repo]]
 url = "https://github.com/adambratschikaye/stable-structures"
+
+[[repo]]
+url = "https://github.com/adamcanray/IC-Rust-PubSub"
 
 [[repo]]
 url = "https://github.com/adamspofford-dfinity/candid"
@@ -820,6 +854,12 @@ url = "https://github.com/afazendeiro/dkeeper"
 url = "https://github.com/afazendeiro/opend"
 
 [[repo]]
+url = "https://github.com/AfifArdhiansyah/guess-number-ICP"
+
+[[repo]]
+url = "https://github.com/AfifArdhiansyah/presence-app-ICP"
+
+[[repo]]
 url = "https://github.com/AfroDAO/template"
 
 [[repo]]
@@ -884,10 +924,16 @@ url = "https://github.com/ahdrahees/dapp_calculator_ic"
 url = "https://github.com/ahdrahees/dapp_homework_diary"
 
 [[repo]]
+url = "https://github.com/ahdrahees/feed-backy"
+
+[[repo]]
 url = "https://github.com/ahdrahees/first_project-on-icp-using-motoko"
 
 [[repo]]
 url = "https://github.com/AhegaoBurger/motoko-bootcamp"
+
+[[repo]]
+url = "https://github.com/ahmadridhoramadhan/to_do_list_with_azle"
 
 [[repo]]
 url = "https://github.com/Ahmed-Aghadi/climate3"
@@ -1018,6 +1064,12 @@ missing = true
 [[repo]]
 url = "https://github.com/akjake616/motoko"
 missing = true
+
+[[repo]]
+url = "https://github.com/akmalhisyammm/myhealth"
+
+[[repo]]
+url = "https://github.com/akmalhisyammm/ticketing-system-icp"
 
 [[repo]]
 url = "https://github.com/akokubu/ic-static-website"
@@ -1156,6 +1208,9 @@ url = "https://github.com/AlexeyAdoniev/xpjs"
 url = "https://github.com/alexgn0110/DBank"
 
 [[repo]]
+url = "https://github.com/alexjolly28/dfinity_canister_rust_learning"
+
+[[repo]]
 url = "https://github.com/AlexRogalskiy/DevArtifacts"
 
 [[repo]]
@@ -1202,6 +1257,12 @@ url = "https://github.com/alfredo69e/motoko-bootcamp"
 
 [[repo]]
 url = "https://github.com/AlieuFriggeri/motoko"
+
+[[repo]]
+url = "https://github.com/alifmufthi91/IC_clinic_allocation"
+
+[[repo]]
+url = "https://github.com/alifmufthi91/IC_Patient_Register"
 
 [[repo]]
 url = "https://github.com/alihanekiz/web3-stuff"
@@ -1299,6 +1360,9 @@ missing = true
 url = "https://github.com/ALLiDoizCode/Nostr_Relay"
 
 [[repo]]
+url = "https://github.com/ALLiDoizCode/pipeline_test"
+
+[[repo]]
 url = "https://github.com/ALLiDoizCode/STACKED"
 
 [[repo]]
@@ -1332,6 +1396,9 @@ url = "https://github.com/alopezv22/Proyecto-Bitacora"
 
 [[repo]]
 url = "https://github.com/Aloxord/Quewe-web3--Motoko"
+
+[[repo]]
+url = "https://github.com/alperburakdgn/icp_project"
 
 [[repo]]
 url = "https://github.com/alperenbekci/ICP_Vote_Template"
@@ -1370,6 +1437,9 @@ url = "https://github.com/alyleite/icp-makers-test"
 [[repo]]
 url = "https://github.com/am0rlock/blotch"
 missing = true
+
+[[repo]]
+url = "https://github.com/amalendu123/d-bank"
 
 [[repo]]
 url = "https://github.com/amalikmuhd/dbank"
@@ -1412,6 +1482,9 @@ url = "https://github.com/AmayaWaka/dBank"
 url = "https://github.com/Ambitchious/blockchain"
 
 [[repo]]
+url = "https://github.com/amdonatusprince/verxio-areon"
+
+[[repo]]
 url = "https://github.com/Ameen-Here/301DaysOfWebDevelopment"
 
 [[repo]]
@@ -1442,6 +1515,12 @@ url = "https://github.com/Amritesh-Bhardwaj/ICP_Blockbash"
 url = "https://github.com/Amruta08/NFT-Marketplace-Website"
 
 [[repo]]
+url = "https://github.com/amschel99/rust-101-icp"
+
+[[repo]]
+url = "https://github.com/amschel99/Voix"
+
+[[repo]]
 url = "https://github.com/amuhleth42/ICP-ts-bootcamp"
 
 [[repo]]
@@ -1455,6 +1534,9 @@ url = "https://github.com/ana-gujabidze/ICP_Keeper"
 
 [[repo]]
 url = "https://github.com/anafts/DBANK"
+
+[[repo]]
+url = "https://github.com/anand008186/Hello_ICP"
 
 [[repo]]
 url = "https://github.com/anandsuresh/berk"
@@ -1627,6 +1709,9 @@ url = "https://github.com/angelvazz/motokobootcamp2023-coreproject"
 url = "https://github.com/angelvazz/origyn"
 
 [[repo]]
+url = "https://github.com/angganion/Library-System"
+
+[[repo]]
 url = "https://github.com/AnhTrnf25/motoko-bootcamp"
 
 [[repo]]
@@ -1641,6 +1726,9 @@ missing = true
 
 [[repo]]
 url = "https://github.com/anjali1102/Hacktober2022"
+
+[[repo]]
+url = "https://github.com/anjolagithub/vote"
 
 [[repo]]
 url = "https://github.com/anjumgarg/.n"
@@ -1704,6 +1792,10 @@ url = "https://github.com/AnnaKilchytska/DSurv"
 
 [[repo]]
 url = "https://github.com/AnnantTyaagi/Blockbash_project1"
+
+[[repo]]
+url = "https://github.com/anonymousGiga/beefy_light_client_on_icp"
+missing = true
 
 [[repo]]
 url = "https://github.com/anonymousGiga/icp_js_client"
@@ -1938,10 +2030,19 @@ url = "https://github.com/ArielRobotti/MotokoPetChain"
 url = "https://github.com/ArielRobotti/Mushroom_Protocol"
 
 [[repo]]
+url = "https://github.com/ArielRobotti/Mushroom_Protocol_2024"
+
+[[repo]]
+url = "https://github.com/ArielRobotti/RandomClass"
+
+[[repo]]
 url = "https://github.com/arielwang829/ic_advanced"
 
 [[repo]]
 url = "https://github.com/arielwang829/ic_basic"
+
+[[repo]]
+url = "https://github.com/arif-mobiuso/Udemy-Course"
 
 [[repo]]
 url = "https://github.com/AriiMe/DBank"
@@ -1966,6 +2067,9 @@ url = "https://github.com/arjuncvinod/First-Internet-Computer-App"
 
 [[repo]]
 url = "https://github.com/arjunpat/stkrs.me"
+
+[[repo]]
+url = "https://github.com/arleenchr/parking-system-icp"
 
 [[repo]]
 url = "https://github.com/armaangoel78/DfinityTodo"
@@ -2071,6 +2175,10 @@ url = "https://github.com/ash823/thapar.ash"
 url = "https://github.com/Asharalikhan4/dbank--WEB3-"
 
 [[repo]]
+url = "https://github.com/ashenafiab/Internet-Computer-ic-Projects"
+missing = true
+
+[[repo]]
 url = "https://github.com/AshishGupta18/fund_it"
 
 [[repo]]
@@ -2125,6 +2233,9 @@ url = "https://github.com/AstroxNetwork/agent_dart"
 url = "https://github.com/AstroxNetwork/agent_dart_examples"
 
 [[repo]]
+url = "https://github.com/AstroxNetwork/astrox-js"
+
+[[repo]]
 url = "https://github.com/AstroxNetwork/buy_me_coffee"
 
 [[repo]]
@@ -2132,6 +2243,9 @@ url = "https://github.com/AstroxNetwork/candid_dart"
 
 [[repo]]
 url = "https://github.com/AstroxNetwork/dapp-examples"
+
+[[repo]]
+url = "https://github.com/AstroxNetwork/flutter_webf_plugins"
 
 [[repo]]
 url = "https://github.com/AstroxNetwork/FoxIC"
@@ -2148,6 +2262,12 @@ url = "https://github.com/AstroxNetwork/ICSnap"
 [[repo]]
 url = "https://github.com/AstroxNetwork/internet-identity"
 missing = true
+
+[[repo]]
+url = "https://github.com/AstroxNetwork/MultiSig"
+
+[[repo]]
+url = "https://github.com/AstroxNetwork/ord_ic"
 
 [[repo]]
 url = "https://github.com/AstroxNetwork/ord_snap"
@@ -2253,6 +2373,12 @@ url = "https://github.com/AustinChris1/Motoko-Bootcamp-2"
 url = "https://github.com/AustinChris1/Motoko-Bootcamp-2023"
 
 [[repo]]
+url = "https://github.com/AustinChris1/myjunoapp"
+
+[[repo]]
+url = "https://github.com/AustinChris1/myjunoapp2"
+
+[[repo]]
 url = "https://github.com/AustP/austs-one-click-node"
 
 [[repo]]
@@ -2277,7 +2403,13 @@ url = "https://github.com/av1ctor/metamob"
 url = "https://github.com/av1ctor/mo-table"
 
 [[repo]]
+url = "https://github.com/ava-vs/doctoken"
+
+[[repo]]
 url = "https://github.com/ava-vs/poc"
+
+[[repo]]
+url = "https://github.com/ava-vs/reputation"
 
 [[repo]]
 url = "https://github.com/ava-vs/verification"
@@ -2408,6 +2540,10 @@ url = "https://github.com/b1shal711/Decentralized-marketplace-NFT-Dfinity-Token"
 url = "https://github.com/b1shal711/Keeper-App-with-Motoko"
 
 [[repo]]
+url = "https://github.com/b3hr4d/b3-users"
+missing = true
+
+[[repo]]
 url = "https://github.com/b3hr4d/cancan"
 
 [[repo]]
@@ -2436,6 +2572,12 @@ url = "https://github.com/b3hr4d/ic-reactor"
 
 [[repo]]
 url = "https://github.com/b3hr4d/ic-rust-nextjs"
+
+[[repo]]
+url = "https://github.com/b3hr4d/ic-typescript-starter"
+
+[[repo]]
+url = "https://github.com/b3hr4d/motoko-nextjs-ic-starter"
 
 [[repo]]
 url = "https://github.com/b3hr4d/payment"
@@ -2537,6 +2679,9 @@ url = "https://github.com/Barbudo7/Motoko_camp"
 
 [[repo]]
 url = "https://github.com/barolukluk/dynamic_rarity_nfts"
+
+[[repo]]
+url = "https://github.com/barrettk8090/dbank-motoko"
 
 [[repo]]
 url = "https://github.com/bArryAllen6843/Crypto-Token"
@@ -2650,6 +2795,9 @@ url = "https://github.com/Benzter/dbank"
 url = "https://github.com/berenteb/mav-plus"
 
 [[repo]]
+url = "https://github.com/berke-s-deniz/wallet-icp"
+
+[[repo]]
 url = "https://github.com/BerkeleyBlockchain/dfinity-dao-consulting"
 
 [[repo]]
@@ -2702,10 +2850,21 @@ url = "https://github.com/beyond009/wallet"
 url = "https://github.com/beyz4n/ICP-Bootcamp-FinalCase"
 
 [[repo]]
+url = "https://github.com/beyzanur314/Internet-Computer-Internship-Bootcamp"
+
+[[repo]]
 url = "https://github.com/beyzonline/rust-tasks"
 
 [[repo]]
 url = "https://github.com/bezata/ICP-BUDGET"
+
+[[repo]]
+url = "https://github.com/bhanvara/d-donateHub"
+missing = true
+
+[[repo]]
+url = "https://github.com/bhanvara/d-notes-keeper"
+missing = true
 
 [[repo]]
 url = "https://github.com/bhanvara/donateHub"
@@ -2788,6 +2947,9 @@ url = "https://github.com/bigshortbets/BETS-ICP"
 
 [[repo]]
 url = "https://github.com/BigWhaleLabs/seal-hub-memorabilia-token-contracts"
+
+[[repo]]
+url = "https://github.com/bilgin-kocak/icp-voting"
 
 [[repo]]
 url = "https://github.com/bill-sent-from-my-iphone/memebase"
@@ -2879,6 +3041,9 @@ missing = true
 url = "https://github.com/bitspresso/whatever-works"
 
 [[repo]]
+url = "https://github.com/bittoko/tecdsa"
+
+[[repo]]
 url = "https://github.com/biznacho2000/blockchain-and-cryptocurrency"
 
 [[repo]]
@@ -2898,6 +3063,10 @@ url = "https://github.com/BlasAdayMedinaGonzalez/motokobootcamp2023"
 
 [[repo]]
 url = "https://github.com/blaz1988/icp_translation_service"
+
+[[repo]]
+url = "https://github.com/blaz1988/MushroomScanner-ICP"
+missing = true
 
 [[repo]]
 url = "https://github.com/Blazym8/neven_earth"
@@ -2939,6 +3108,10 @@ url = "https://github.com/Blocks-Editor/blocks"
 url = "https://github.com/blockzeek/mbc2023-enrollment"
 
 [[repo]]
+url = "https://github.com/bluebird912/DBANK-Decentralised-Finance-app-"
+missing = true
+
+[[repo]]
 url = "https://github.com/BlueConnectBR/blueapps"
 missing = true
 
@@ -2968,6 +3141,9 @@ url = "https://github.com/Bob-Karemera-Shema/OpenD-NFT-MarketPlace"
 
 [[repo]]
 url = "https://github.com/Bochsler-Finance/quill-staking-guide"
+
+[[repo]]
+url = "https://github.com/Bochslertech/azle"
 
 [[repo]]
 url = "https://github.com/Bochslertech/crypto"
@@ -3000,6 +3176,9 @@ url = "https://github.com/Bochslertech/yumi_nft_standard_example"
 url = "https://github.com/bodily11/ic"
 
 [[repo]]
+url = "https://github.com/Bolee95/icp-name-service"
+
+[[repo]]
 url = "https://github.com/bonedaddy/mychurnero"
 
 [[repo]]
@@ -3007,6 +3186,9 @@ url = "https://github.com/boneyard93501/agent-rs"
 
 [[repo]]
 url = "https://github.com/boneyard93501/cdk-rs"
+
+[[repo]]
+url = "https://github.com/Bonfacekiprop/Event_Booking"
 
 [[repo]]
 url = "https://github.com/Bonfacekiprop/QR-Code-Generation-with-Canister"
@@ -3079,6 +3261,9 @@ url = "https://github.com/branciard/examples"
 
 [[repo]]
 url = "https://github.com/branciard/internet-identity"
+
+[[repo]]
+url = "https://github.com/branciard/kybra-integration-test"
 
 [[repo]]
 url = "https://github.com/branciard/sandblessapp"
@@ -3155,10 +3340,16 @@ url = "https://github.com/bryanbill/transit-cannister"
 url = "https://github.com/Brysonmk1984/eco-allies"
 
 [[repo]]
+url = "https://github.com/bsababu/DeFi-DApps-dbank"
+
+[[repo]]
 url = "https://github.com/BSITG/HelloDapp"
 
 [[repo]]
 url = "https://github.com/builde7b0b/Motoko_G"
+
+[[repo]]
+url = "https://github.com/buildwithjuno/cli"
 
 [[repo]]
 url = "https://github.com/buildwithjuno/emulator"
@@ -3170,10 +3361,16 @@ url = "https://github.com/buildwithjuno/examples"
 url = "https://github.com/buildwithjuno/juno"
 
 [[repo]]
+url = "https://github.com/buildwithjuno/juno-js"
+
+[[repo]]
 url = "https://github.com/buka1calvin/web3-based-electoral-voter-System"
 
 [[repo]]
 url = "https://github.com/buketyurt/FirstRustProject"
+
+[[repo]]
+url = "https://github.com/bundlydev/ares"
 
 [[repo]]
 url = "https://github.com/bundubuduri/icp_counter_rust-lang"
@@ -3339,6 +3536,9 @@ url = "https://github.com/calebthewood/dbank"
 url = "https://github.com/calldata/candid"
 
 [[repo]]
+url = "https://github.com/calledAdo/Quotex"
+
+[[repo]]
 url = "https://github.com/canscale/hello-candb"
 
 [[repo]]
@@ -3358,6 +3558,9 @@ url = "https://github.com/canscale/StableRBTree"
 
 [[repo]]
 url = "https://github.com/canscale/supernova-candb-demo"
+
+[[repo]]
+url = "https://github.com/cantrk21/ICP_Vote_Template-main"
 
 [[repo]]
 url = "https://github.com/canxilium/daily-challenges"
@@ -3457,6 +3660,9 @@ missing = true
 url = "https://github.com/carlek/ICRC-1-azle"
 
 [[repo]]
+url = "https://github.com/carlek/petrinet_producer_consumer"
+
+[[repo]]
 url = "https://github.com/Carlos-F-Braga/Dapp-Icp-CryptoDrunks-Marketplace"
 
 [[repo]]
@@ -3553,6 +3759,12 @@ url = "https://github.com/Ceretrons/hello-canisters"
 
 [[repo]]
 url = "https://github.com/cesarvarela/gato"
+
+[[repo]]
+url = "https://github.com/cetincam/boru"
+
+[[repo]]
+url = "https://github.com/cetincam/icp"
 
 [[repo]]
 url = "https://github.com/Ceto-Labs/bucket"
@@ -3666,6 +3878,10 @@ url = "https://github.com/cheffyp/dkeeper"
 url = "https://github.com/Chege-John/InfiniteHackathon"
 
 [[repo]]
+url = "https://github.com/Chelle007/cinema_ticket_ICP"
+missing = true
+
+[[repo]]
 url = "https://github.com/Chelseasingla1/Internet-Computer-Internship-Bootcamp"
 
 [[repo]]
@@ -3750,6 +3966,9 @@ url = "https://github.com/chitraarasu/NFT-Using-Own-Crypto-Token-Reactjs"
 url = "https://github.com/chitraarasu/Own-Crypto-Token"
 
 [[repo]]
+url = "https://github.com/ChJ4m3s/voting_pools_icp"
+
+[[repo]]
 url = "https://github.com/Chloester2021/workingFrontEnd"
 
 [[repo]]
@@ -3776,6 +3995,12 @@ url = "https://github.com/ChriLnth/terabethia"
 
 [[repo]]
 url = "https://github.com/chriss1525/fundraisa"
+
+[[repo]]
+url = "https://github.com/chriss1525/library"
+
+[[repo]]
+url = "https://github.com/chriss1525/task_manager"
 
 [[repo]]
 url = "https://github.com/christiaan93210/LaunchBar_Vue"
@@ -3852,6 +4077,9 @@ url = "https://github.com/chukwumahenry1/hello_icp"
 [[repo]]
 url = "https://github.com/CigDao/cig20"
 missing = true
+
+[[repo]]
+url = "https://github.com/CigDao/Your-Coin"
 
 [[repo]]
 url = "https://github.com/ciglesiasvera/azle_ddo"
@@ -3972,6 +4200,15 @@ url = "https://github.com/Code-and-State/deploy-first-dapp"
 url = "https://github.com/Code-and-State/icp-dev-containers"
 
 [[repo]]
+url = "https://github.com/Code-and-State/motoko-bootcamp-workspace"
+
+[[repo]]
+url = "https://github.com/Code-and-State/simple-website"
+
+[[repo]]
+url = "https://github.com/Code-and-State/typescript-bootcamp"
+
+[[repo]]
 url = "https://github.com/Code-Dramatist/Rule_Actions"
 
 [[repo]]
@@ -4030,6 +4267,9 @@ url = "https://github.com/CokeCrusader007/ICPWorkshop23Tiet"
 
 [[repo]]
 url = "https://github.com/Collins-Ruto/parking-reservation-ICP"
+
+[[repo]]
+url = "https://github.com/Collins-Ruto/patient-records"
 
 [[repo]]
 url = "https://github.com/Collins-Ruto/supply-chain"
@@ -4340,16 +4580,31 @@ url = "https://github.com/cybrowl/static"
 url = "https://github.com/cybrowl/upload-file"
 
 [[repo]]
+url = "https://github.com/cycle-express/cycle-express"
+
+[[repo]]
 url = "https://github.com/CyclesCommon/cycles-motoko"
 
 [[repo]]
 url = "https://github.com/CygnusIC/SDK"
 
 [[repo]]
+url = "https://github.com/cylim/dareto"
+
+[[repo]]
+url = "https://github.com/cylim/resolution"
+
+[[repo]]
 url = "https://github.com/cymqqqq/machine_leanring"
 
 [[repo]]
+url = "https://github.com/cymqqqq/quers-canister"
+
+[[repo]]
 url = "https://github.com/CyMule/web"
+
+[[repo]]
+url = "https://github.com/CypherForms/CypherForms"
 
 [[repo]]
 url = "https://github.com/cywy503/DBank"
@@ -4483,6 +4738,9 @@ url = "https://github.com/danielgruesso/docs-translation"
 missing = true
 
 [[repo]]
+url = "https://github.com/danielkiprotich/task-manager-ICP"
+
+[[repo]]
 url = "https://github.com/danielterwiel/tedr"
 
 [[repo]]
@@ -4588,6 +4846,12 @@ url = "https://github.com/darkfandom/to-do-list-web3"
 
 [[repo]]
 url = "https://github.com/Darknight235/block-chain"
+
+[[repo]]
+url = "https://github.com/Darshan1904/ICP_Project"
+
+[[repo]]
+url = "https://github.com/Darshan1904/NEXANOVA_ICP_TOKEN"
 
 [[repo]]
 url = "https://github.com/DarshanKodipalli/SmartCertWebApp"
@@ -4793,6 +5057,15 @@ url = "https://github.com/deckgo/deckdeckgo"
 url = "https://github.com/Deekshithrathod/icp-web3"
 
 [[repo]]
+url = "https://github.com/DeelanLasrado/DBank-html-css-js-motoko-"
+
+[[repo]]
+url = "https://github.com/DeelanLasrado/DKeeper-React-Motoko-"
+
+[[repo]]
+url = "https://github.com/Deemazter07/dbank"
+
+[[repo]]
 url = "https://github.com/deep-ink-ventures/blend-safe"
 
 [[repo]]
@@ -4816,6 +5089,9 @@ url = "https://github.com/delaaxe/ape-zksync"
 
 [[repo]]
 url = "https://github.com/Deland-Labs/DFT-Standard-Tutorial"
+
+[[repo]]
+url = "https://github.com/delcin-raj/todo_icp"
 
 [[repo]]
 url = "https://github.com/Delpha05/DBank---A-Simple-DeFi-DApp"
@@ -4878,6 +5154,12 @@ url = "https://github.com/DeograciousAggrey/sapphire-paratime"
 url = "https://github.com/DepartureLabsIC/auth_client_demo_azle"
 
 [[repo]]
+url = "https://github.com/DepartureLabsIC/dl_authorize"
+
+[[repo]]
+url = "https://github.com/DepartureLabsIC/dl_events"
+
+[[repo]]
 url = "https://github.com/DepartureLabsIC/ic_event_fs"
 
 [[repo]]
@@ -4904,6 +5186,9 @@ missing = true
 
 [[repo]]
 url = "https://github.com/DepartureLabsIC/package-set"
+
+[[repo]]
+url = "https://github.com/DepartureLabsIC/quark-checkout"
 
 [[repo]]
 url = "https://github.com/DepartureLabsIC/relay"
@@ -4966,6 +5251,15 @@ missing = true
 
 [[repo]]
 url = "https://github.com/Destiny-01/ICP-azle-chatroom"
+
+[[repo]]
+url = "https://github.com/dev-0015/Food-Delivery-Tracking-System-Smart-Contract-"
+
+[[repo]]
+url = "https://github.com/dev-opus/event-manager"
+
+[[repo]]
+url = "https://github.com/dev-opus/icp-ems"
 
 [[repo]]
 url = "https://github.com/DevanshuNagpal/BlockBash"
@@ -5730,6 +6024,9 @@ missing = true
 url = "https://github.com/dickhery/CoinFlip"
 
 [[repo]]
+url = "https://github.com/DICKSON-hub32/icp-dacade-rust"
+
+[[repo]]
 url = "https://github.com/didolunatic/RustBootcampFinalProject"
 
 [[repo]]
@@ -5777,6 +6074,9 @@ url = "https://github.com/digitaldoggo/ic-angular-cli"
 
 [[repo]]
 url = "https://github.com/digitaldoggo/ic-wall"
+
+[[repo]]
+url = "https://github.com/dihanto/chaingram"
 
 [[repo]]
 url = "https://github.com/dildurden/BloodBlock"
@@ -5831,7 +6131,13 @@ url = "https://github.com/dipanshuhappy/anon-aadhaar-icp"
 url = "https://github.com/dipanshuhappy/basic_eth_icp"
 
 [[repo]]
+url = "https://github.com/dipanshuhappy/dindex_icp"
+
+[[repo]]
 url = "https://github.com/dipanshuhappy/dkim"
+
+[[repo]]
+url = "https://github.com/dipanshuhappy/dkim-kybra"
 
 [[repo]]
 url = "https://github.com/dipanshuhappy/gyro-icp"
@@ -5847,10 +6153,16 @@ missing = true
 url = "https://github.com/dipanshuhappy/one_token"
 
 [[repo]]
+url = "https://github.com/dipanshuhappy/secret_recovery"
+
+[[repo]]
 url = "https://github.com/dipanshuhappy/tecdsa"
 
 [[repo]]
 url = "https://github.com/dipanshuhappy/unique-icp-canister"
+
+[[repo]]
+url = "https://github.com/discordance/icp_music"
 
 [[repo]]
 url = "https://github.com/Distive/Distive"
@@ -5863,6 +6175,9 @@ url = "https://github.com/DivakshiDhaliwal/DD"
 
 [[repo]]
 url = "https://github.com/divin3circle/fitness-tracker-icp-project"
+
+[[repo]]
+url = "https://github.com/divin3circle/inua_dao"
 
 [[repo]]
 url = "https://github.com/Divisekara/kafka-practice"
@@ -5887,6 +6202,9 @@ url = "https://github.com/dixhasharma/icproject"
 
 [[repo]]
 url = "https://github.com/Diya0212/Blockchain"
+
+[[repo]]
+url = "https://github.com/diyagoyal18/DBank-motoko"
 
 [[repo]]
 url = "https://github.com/DiYaZeN/dfinity-hello-motoko"
@@ -5995,6 +6313,9 @@ url = "https://github.com/DocHolliday602/Motoko-Bootcamp"
 url = "https://github.com/DocHolliday602/motokobootcamp2023"
 
 [[repo]]
+url = "https://github.com/docken-styles/Planet"
+
+[[repo]]
 url = "https://github.com/dogles16/obsidian_tears"
 
 [[repo]]
@@ -6008,6 +6329,9 @@ url = "https://github.com/DogukanTopcu/rust_workshop_master_project"
 
 [[repo]]
 url = "https://github.com/dokpark21/ICP_codestates_blockchain"
+
+[[repo]]
+url = "https://github.com/Dolazdev/FoodChop"
 
 [[repo]]
 url = "https://github.com/domwoe/access_control"
@@ -6110,6 +6434,9 @@ url = "https://github.com/dopi4720/Motoko_CRUD_Sample"
 url = "https://github.com/dopi4720/SOTA_BK"
 
 [[repo]]
+url = "https://github.com/dorcasndungu/consensUs"
+
+[[repo]]
 url = "https://github.com/dOrgJelli/cover"
 
 [[repo]]
@@ -6134,10 +6461,16 @@ url = "https://github.com/dorucioclea/sudograph"
 url = "https://github.com/dorucioclea/web"
 
 [[repo]]
+url = "https://github.com/douyixuan/like_ranking"
+
+[[repo]]
 url = "https://github.com/DoWithPassion/TodoDfinity"
 
 [[repo]]
 url = "https://github.com/dowlandaiello/B9Lab-Assignments"
+
+[[repo]]
+url = "https://github.com/DoxaFoundation/DoxaDollar"
 
 [[repo]]
 url = "https://github.com/dozken/dbank"
@@ -6264,10 +6597,19 @@ url = "https://github.com/dstarapp/ic-notes"
 url = "https://github.com/dsyengo/blockchain"
 
 [[repo]]
+url = "https://github.com/dtroit75/consenUS"
+
+[[repo]]
 url = "https://github.com/dubecker/ic-search"
 
 [[repo]]
 url = "https://github.com/Duck-and-Windmill/Seshat"
+
+[[repo]]
+url = "https://github.com/ducviet00/icp-repos-crud-typescript"
+
+[[repo]]
+url = "https://github.com/ducviet00/icp-rust-repos-crud"
 
 [[repo]]
 url = "https://github.com/dudszim123/icp_bbc_big_block_chain"
@@ -6351,6 +6693,9 @@ url = "https://github.com/e274426380/dfx_icpleague"
 url = "https://github.com/e274426380/right-dao-build"
 
 [[repo]]
+url = "https://github.com/earthwallet/assets"
+
+[[repo]]
 url = "https://github.com/earthwallet/keyring"
 
 [[repo]]
@@ -6368,6 +6713,9 @@ url = "https://github.com/ecebgenc/Internet-Computer-Rust-Bootcamp-Final-Project
 [[repo]]
 url = "https://github.com/ECNUwyzZL/blog"
 missing = true
+
+[[repo]]
+url = "https://github.com/edbertjk/smart_contracts_token"
 
 [[repo]]
 url = "https://github.com/EddieTPC/CryptoCrowd"
@@ -6457,6 +6805,9 @@ url = "https://github.com/EFP1234/motoko-coreproject"
 url = "https://github.com/EfsaTortukk/First-ICP-Project"
 
 [[repo]]
+url = "https://github.com/EfsaTortukk/my-first-rust-project"
+
+[[repo]]
 url = "https://github.com/eftychis/agent-rs"
 
 [[repo]]
@@ -6509,6 +6860,9 @@ url = "https://github.com/EKingpt/icp-challenges"
 
 [[repo]]
 url = "https://github.com/EKingpt/icp-hello"
+
+[[repo]]
+url = "https://github.com/ekkymulia/ekky-101-azle"
 
 [[repo]]
 url = "https://github.com/ElCarlangas2012/chess-game"
@@ -6565,6 +6919,9 @@ url = "https://github.com/ellisspencer10/example"
 url = "https://github.com/Elpacos/Zk_voting_system"
 
 [[repo]]
+url = "https://github.com/elsangra/hospital_system"
+
+[[repo]]
 url = "https://github.com/Em5ty/Calculator"
 
 [[repo]]
@@ -6574,10 +6931,16 @@ url = "https://github.com/Em5ty/first_project_IC"
 url = "https://github.com/Em5ty/mbc2023-enrollment"
 
 [[repo]]
+url = "https://github.com/EMCProtocol-dev/EMC-Dashboard"
+
+[[repo]]
 url = "https://github.com/EMCProtocol-dev/EMC-DIP20"
 
 [[repo]]
 url = "https://github.com/EMCProtocol-dev/EMC-NodeReward"
+
+[[repo]]
+url = "https://github.com/EMCProtocol-dev/EMC-Presale"
 
 [[repo]]
 url = "https://github.com/EMCProtocol-dev/EMC-SD"
@@ -6749,6 +7112,9 @@ url = "https://github.com/Epg33/motokobootcamp2023"
 
 [[repo]]
 url = "https://github.com/Epg33/web-3-first-try"
+
+[[repo]]
+url = "https://github.com/epic-bear/dbank-Web3.0"
 
 [[repo]]
 url = "https://github.com/erdincKIRTEKE/dsurv"
@@ -6931,6 +7297,10 @@ url = "https://github.com/fairlyxu/icp_training"
 url = "https://github.com/fairlyxu/icp_training2"
 
 [[repo]]
+url = "https://github.com/fairtale5/BB"
+missing = true
+
+[[repo]]
 url = "https://github.com/falcaozane/DBank"
 
 [[repo]]
@@ -6980,6 +7350,9 @@ url = "https://github.com/fasten-project/Debian-license-collector"
 url = "https://github.com/fasten-project/LCV-CM"
 
 [[repo]]
+url = "https://github.com/fastinom/Taskhub"
+
+[[repo]]
 url = "https://github.com/fatih-arslan/icp-vote"
 
 [[repo]]
@@ -6990,6 +7363,9 @@ url = "https://github.com/fatihbatu/dbank"
 
 [[repo]]
 url = "https://github.com/favourse/favourse-icp-canister"
+
+[[repo]]
+url = "https://github.com/fawazalrasyid/icp-codefest"
 
 [[repo]]
 url = "https://github.com/febrosy/core-contracts"
@@ -7003,6 +7379,9 @@ url = "https://github.com/FeiElf/token"
 
 [[repo]]
 url = "https://github.com/feliciagrace23/DKeeper"
+
+[[repo]]
+url = "https://github.com/felirenee/ChainCrafted"
 
 [[repo]]
 url = "https://github.com/FellahAbdel/web-3-dbank"
@@ -7080,6 +7459,12 @@ url = "https://github.com/fermartz/swind"
 url = "https://github.com/FermentedDAO/dao"
 
 [[repo]]
+url = "https://github.com/fernadaArrieta/mbc_enrollement"
+
+[[repo]]
+url = "https://github.com/fernadaArrieta/Motoko-Bootcamp"
+
+[[repo]]
 url = "https://github.com/FernNguyen/CanisterAppBot"
 missing = true
 
@@ -7097,6 +7482,9 @@ url = "https://github.com/feyzasyf/ICPBootcamp"
 
 [[repo]]
 url = "https://github.com/ffakenz/motoko-workshop"
+
+[[repo]]
+url = "https://github.com/fGhost713/Sli-SwapApp"
 
 [[repo]]
 url = "https://github.com/fgrabenstaetter/digital-assets"
@@ -7121,6 +7509,9 @@ url = "https://github.com/findtruman-official/ugceditor-server"
 
 [[repo]]
 url = "https://github.com/findtruman-official/ugceditor-web"
+
+[[repo]]
+url = "https://github.com/Firdausfarul/malicious-contract-detector"
 
 [[repo]]
 url = "https://github.com/fire/open_character_creator"
@@ -7201,6 +7592,9 @@ url = "https://github.com/flowerpowerdao/garden"
 url = "https://github.com/flowerpowerdao/icpflower-nft-canister"
 
 [[repo]]
+url = "https://github.com/flowerpowerdao/minting-page"
+
+[[repo]]
 url = "https://github.com/flowerpowerdao/off-chain-backup"
 
 [[repo]]
@@ -7227,6 +7621,9 @@ url = "https://github.com/flyq/candid_rs_exam"
 missing = true
 
 [[repo]]
+url = "https://github.com/flyq/ecdsa_poc"
+
+[[repo]]
 url = "https://github.com/flyq/ic-course"
 
 [[repo]]
@@ -7241,6 +7638,9 @@ url = "https://github.com/flyq/ic_ledger_block"
 [[repo]]
 url = "https://github.com/flyq/ic_rust_call"
 missing = true
+
+[[repo]]
+url = "https://github.com/flyq/ICTornado"
 
 [[repo]]
 url = "https://github.com/flyq/inter_call"
@@ -7324,6 +7724,10 @@ url = "https://github.com/Fosuna-code/TkFree"
 url = "https://github.com/fowlerlee/cdk-rs"
 
 [[repo]]
+url = "https://github.com/fowlerlee/dapp"
+missing = true
+
+[[repo]]
 url = "https://github.com/fowlerlee/examples"
 
 [[repo]]
@@ -7337,6 +7741,10 @@ url = "https://github.com/fowlerlee/motokobootcamp2023"
 
 [[repo]]
 url = "https://github.com/fowlerlee/motokobootcamp2023-coreproject"
+
+[[repo]]
+url = "https://github.com/fowlerlee/motokobootcamp2023-coreproject-lee"
+missing = true
 
 [[repo]]
 url = "https://github.com/fowlerlee/musall"
@@ -7406,6 +7814,9 @@ url = "https://github.com/frederikrothenberger/cancan"
 
 [[repo]]
 url = "https://github.com/frederikrothenberger/personal_counter"
+
+[[repo]]
+url = "https://github.com/fredski02/darket"
 
 [[repo]]
 url = "https://github.com/FreeosDAO/cronacle_frontend"
@@ -7618,6 +8029,9 @@ url = "https://github.com/Game-Bloc/Gamebloc-ICP"
 url = "https://github.com/gamegenix-oracle/gamegenix-oracle"
 
 [[repo]]
+url = "https://github.com/gaollg/icp_learning"
+
+[[repo]]
 url = "https://github.com/garg1337/icp_projects"
 
 [[repo]]
@@ -7687,6 +8101,9 @@ url = "https://github.com/Gega97/day1"
 
 [[repo]]
 url = "https://github.com/Gega97/hello"
+
+[[repo]]
+url = "https://github.com/Gekctek/farcaster-frame"
 
 [[repo]]
 url = "https://github.com/Genopets/ignition-hackathon"
@@ -7823,6 +8240,9 @@ url = "https://github.com/githubregina/Web3-dkeeper"
 url = "https://github.com/githubregina/Web3-token"
 
 [[repo]]
+url = "https://github.com/githukelvin/lux-hackathon"
+
+[[repo]]
 url = "https://github.com/Gitleyla/Leyla"
 
 [[repo]]
@@ -7856,6 +8276,9 @@ url = "https://github.com/giuliotripi/ic-licensemanager"
 url = "https://github.com/GiuseppeGiuliani19/my-exchange-app"
 
 [[repo]]
+url = "https://github.com/gkilch1/Notes-DApp"
+
+[[repo]]
 url = "https://github.com/gladguy/DeFi-ckBTC-ordinals"
 
 [[repo]]
@@ -7887,6 +8310,9 @@ url = "https://github.com/Glinrear/Mavain"
 
 [[repo]]
 url = "https://github.com/Glorlicon/BkMotokoBootCamp"
+
+[[repo]]
+url = "https://github.com/GM-11/dwitter"
 
 [[repo]]
 url = "https://github.com/GM-11/dwitter_icp_project"
@@ -7981,6 +8407,15 @@ url = "https://github.com/gouro7/gourav"
 
 [[repo]]
 url = "https://github.com/govindkrishna03/Nextjs_web3"
+
+[[repo]]
+url = "https://github.com/grahampasmurf/MotokoBootcamp"
+
+[[repo]]
+url = "https://github.com/grandzero/dhooks"
+
+[[repo]]
+url = "https://github.com/grandzero/icp-voting"
 
 [[repo]]
 url = "https://github.com/Grants-Projects/EA_KAZI_backend_ic"
@@ -8147,6 +8582,9 @@ url = "https://github.com/HabibUrRehmanBhattii/NFTs_Marketpalce_Web3_Motoko"
 url = "https://github.com/HabibUrRehmanBhattii/Token_AKLM"
 
 [[repo]]
+url = "https://github.com/hackathon-mastery-indonesia/certifolio_backend"
+
+[[repo]]
 url = "https://github.com/hackeyx/mini-dbank-project"
 
 [[repo]]
@@ -8160,6 +8598,9 @@ url = "https://github.com/hacKRD0/OPEND"
 
 [[repo]]
 url = "https://github.com/hacspec/hax"
+
+[[repo]]
+url = "https://github.com/hadronous/ic-angular"
 
 [[repo]]
 url = "https://github.com/hadronous/pic-js"
@@ -8207,6 +8648,9 @@ missing = true
 
 [[repo]]
 url = "https://github.com/hamzaghz/web"
+
+[[repo]]
+url = "https://github.com/hanbu97/ic-card"
 
 [[repo]]
 url = "https://github.com/hanbu97/motoko-sha3"
@@ -8399,6 +8843,9 @@ url = "https://github.com/harveyjavier/motokobootcamp2023"
 url = "https://github.com/harveyjavier/motokobootcamp2023-coreproject"
 
 [[repo]]
+url = "https://github.com/Haryinde/My-travel"
+
+[[repo]]
 url = "https://github.com/hashkeydid/hashkeydid-icp"
 
 [[repo]]
@@ -8489,6 +8936,9 @@ url = "https://github.com/herumi/ecdsa-motoko"
 url = "https://github.com/herumi/misc"
 
 [[repo]]
+url = "https://github.com/Het13/Web-Development-Course"
+
+[[repo]]
 url = "https://github.com/het4399/dbank"
 
 [[repo]]
@@ -8508,6 +8958,9 @@ url = "https://github.com/hhzule/icp-motoko"
 
 [[repo]]
 url = "https://github.com/hhzule/internet-computer"
+
+[[repo]]
+url = "https://github.com/hide-yoshi/evm-price-oracle"
 
 [[repo]]
 url = "https://github.com/hide-yoshi/motoko-learning"
@@ -8566,6 +9019,9 @@ url = "https://github.com/himyyy/hello_dfinity"
 [[repo]]
 url = "https://github.com/himyyy/react_dfinity"
 missing = true
+
+[[repo]]
+url = "https://github.com/HiramZednem/ICP-CERTIFICATION"
 
 [[repo]]
 url = "https://github.com/Hisoka37/ICP_Vote_Template"
@@ -8676,6 +9132,9 @@ url = "https://github.com/horizonx-tech/chainsight-cli"
 
 [[repo]]
 url = "https://github.com/horizonx-tech/chainsight-management-canisters"
+
+[[repo]]
+url = "https://github.com/horizonx-tech/chainsight-sdk"
 
 [[repo]]
 url = "https://github.com/horizonx-tech/chainsight-showcase"
@@ -8821,6 +9280,9 @@ url = "https://github.com/i-usman-akram/IC-Projects"
 url = "https://github.com/i-usman-akram/nft-opend-marketplace"
 
 [[repo]]
+url = "https://github.com/iamenochchirima/bitcoin"
+
+[[repo]]
 url = "https://github.com/iamenochchirima/ckbtc"
 
 [[repo]]
@@ -8857,6 +9319,10 @@ missing = true
 
 [[repo]]
 url = "https://github.com/iamenochchirima/nexuschats-client"
+missing = true
+
+[[repo]]
+url = "https://github.com/iamenochchirima/nexuschats-motoko"
 missing = true
 
 [[repo]]
@@ -8944,6 +9410,10 @@ url = "https://github.com/ic-dstar/ic-dstar"
 url = "https://github.com/ic-dstar/ic-note"
 
 [[repo]]
+url = "https://github.com/ic-dstar/ic-notes"
+missing = true
+
+[[repo]]
 url = "https://github.com/IC-Kryptonic/Canister-Architecture-PoC"
 
 [[repo]]
@@ -8991,6 +9461,18 @@ url = "https://github.com/IC-Search/ic-search"
 url = "https://github.com/IC-Web3D-Engine/Web3D-Engine-core"
 
 [[repo]]
+url = "https://github.com/ic0-computer/connect2ic-fork"
+
+[[repo]]
+url = "https://github.com/ic0-computer/connectr"
+
+[[repo]]
+url = "https://github.com/ic0-computer/ic0-computer"
+
+[[repo]]
+url = "https://github.com/ic0-computer/tools"
+
+[[repo]]
 url = "https://github.com/ic1101-iusd/aenos"
 
 [[repo]]
@@ -9034,6 +9516,9 @@ url = "https://github.com/icdevs/quicklist-dao"
 
 [[repo]]
 url = "https://github.com/icdevs/VoIC"
+
+[[repo]]
+url = "https://github.com/icdevsorg/candy_library"
 
 [[repo]]
 url = "https://github.com/icduns/duns"
@@ -9084,7 +9569,13 @@ url = "https://github.com/iclighthouse/DRC_standards"
 url = "https://github.com/iclighthouse/ICDex"
 
 [[repo]]
+url = "https://github.com/iclighthouse/ICDex-Trader"
+
+[[repo]]
 url = "https://github.com/iclighthouse/icETH"
+
+[[repo]]
+url = "https://github.com/iclighthouse/ICHouse"
 
 [[repo]]
 url = "https://github.com/iclighthouse/icl-vessel"
@@ -9168,10 +9659,18 @@ url = "https://github.com/icpipeline-framework/hellopipeline2-pub"
 url = "https://github.com/icpipeline-framework/hellosnapshot1-pub"
 
 [[repo]]
+url = "https://github.com/icpipeline-framework/manager-alpha"
+missing = true
+
+[[repo]]
 url = "https://github.com/icpipeline-framework/manager-beta"
 
 [[repo]]
 url = "https://github.com/icpipeline-framework/mbt"
+
+[[repo]]
+url = "https://github.com/icpipeline-framework/uplink-alpha"
+missing = true
 
 [[repo]]
 url = "https://github.com/icpipeline-framework/uplink-beta"
@@ -9244,6 +9743,9 @@ url = "https://github.com/icRushProject/ic_rush_rs"
 url = "https://github.com/icsneed/sneed"
 
 [[repo]]
+url = "https://github.com/icsneed/sneed_sns_dapp"
+
+[[repo]]
 url = "https://github.com/icvault/sdk-js"
 
 [[repo]]
@@ -9307,6 +9809,9 @@ url = "https://github.com/ielashi/stable-btreemap-example"
 url = "https://github.com/iExecBlockchainComputing/iexec-stack"
 
 [[repo]]
+url = "https://github.com/ifunaaya/task_manager"
+
+[[repo]]
 url = "https://github.com/igl2/dbank"
 
 [[repo]]
@@ -9341,6 +9846,9 @@ url = "https://github.com/ildefons/motokolearn"
 url = "https://github.com/iLearnX-io/ilearnx-icp"
 
 [[repo]]
+url = "https://github.com/ilialor/ava-check"
+
+[[repo]]
 url = "https://github.com/ililic/motoko_base_library_test_battery"
 
 [[repo]]
@@ -9365,10 +9873,19 @@ url = "https://github.com/imambujshukla7/securetaskhub"
 url = "https://github.com/imamrovid9/mydigi"
 
 [[repo]]
+url = "https://github.com/ImanuelSG/Stock-Canister"
+
+[[repo]]
 url = "https://github.com/imhxc/hello-dfx"
 
 [[repo]]
+url = "https://github.com/imodoiepale/Web3-Blockchain-Project-on-ICP-E-Cyber-Automation-of-Immigration-Applications"
+
+[[repo]]
 url = "https://github.com/imranbarbhuiya/hello-web3"
+
+[[repo]]
+url = "https://github.com/imsk17/todo-icp"
 
 [[repo]]
 url = "https://github.com/imsonalbajaj/dkeeper"
@@ -9422,6 +9939,10 @@ url = "https://github.com/infu/athena-protocol"
 url = "https://github.com/infu/aulareward"
 
 [[repo]]
+url = "https://github.com/infu/bug_x_weird"
+missing = true
+
+[[repo]]
 url = "https://github.com/infu/cosmicrafts_marketplace"
 
 [[repo]]
@@ -9469,6 +9990,9 @@ url = "https://github.com/infu/sonic_contrib_volume"
 [[repo]]
 url = "https://github.com/infu/swapper"
 missing = true
+
+[[repo]]
+url = "https://github.com/infu/verify_dao_sns_account"
 
 [[repo]]
 url = "https://github.com/initiaofficial/initia"
@@ -9694,6 +10218,9 @@ missing = true
 
 [[repo]]
 url = "https://github.com/Itoka-DAO/IC-XRP"
+
+[[repo]]
+url = "https://github.com/Itoka-DAO/icxrp"
 
 [[repo]]
 url = "https://github.com/Itoka-DAO/itoka-music-nft-standard"
@@ -10061,6 +10588,9 @@ url = "https://github.com/jefedcreator/openbooks"
 url = "https://github.com/JeffNeff/TeaParty"
 
 [[repo]]
+url = "https://github.com/jefftrojan/azle-smart-contract"
+
+[[repo]]
 url = "https://github.com/jefftrojan/safechain"
 
 [[repo]]
@@ -10094,8 +10624,14 @@ url = "https://github.com/JeseData/ICP_eth_payments"
 url = "https://github.com/JeseData/motokobootcamp-2023-project"
 
 [[repo]]
+url = "https://github.com/jeshli/rust-connect-py-ai-to-ic"
+
+[[repo]]
 url = "https://github.com/JessAYrn/Digital-Time-Capsule"
 missing = true
+
+[[repo]]
+url = "https://github.com/JessAYrn/oso-wallet"
 
 [[repo]]
 url = "https://github.com/JessAYrn/SampleCode"
@@ -10112,6 +10648,9 @@ missing = true
 
 [[repo]]
 url = "https://github.com/JesseLiimatta/motokobootcamp-2023-project"
+
+[[repo]]
+url = "https://github.com/jesssekeogh/bonsai_dapp"
 
 [[repo]]
 url = "https://github.com/jesssekeogh/CanDB-Test"
@@ -10152,6 +10691,9 @@ url = "https://github.com/jhamatdhiraj/Ball-Game"
 
 [[repo]]
 url = "https://github.com/JhiNResH/dbank"
+
+[[repo]]
+url = "https://github.com/jian-guo-s/contract-icp"
 
 [[repo]]
 url = "https://github.com/jiangweifeng/microblog"
@@ -10288,6 +10830,9 @@ url = "https://github.com/jo-mut/Scribes"
 url = "https://github.com/JoE11-y/ICP-Lottery"
 
 [[repo]]
+url = "https://github.com/JoE11-y/ICP-Lottery-DApp"
+
+[[repo]]
 url = "https://github.com/JoE11-y/Lottery-Canister"
 
 [[repo]]
@@ -10353,10 +10898,17 @@ url = "https://github.com/JohnLasso/AzleAngular"
 url = "https://github.com/JohnMotoko/hello1"
 
 [[repo]]
+url = "https://github.com/johnolamide/rentmase"
+missing = true
+
+[[repo]]
 url = "https://github.com/johnsuico/dbank-tut"
 
 [[repo]]
 url = "https://github.com/johnwesily/IPC-todolist"
+
+[[repo]]
+url = "https://github.com/johnxiaohe/icp-dnote"
 
 [[repo]]
 url = "https://github.com/Johnycrown/Decentralised_file_storage"
@@ -10369,6 +10921,9 @@ url = "https://github.com/Jonath-z/assistant-deBot"
 
 [[repo]]
 url = "https://github.com/Jonath-z/azle-fetch"
+
+[[repo]]
+url = "https://github.com/Jonath-z/azle-start"
 
 [[repo]]
 url = "https://github.com/Jonath-z/cypher-space"
@@ -10494,6 +11049,9 @@ url = "https://github.com/josemiDev12/motoko_first_deploy"
 url = "https://github.com/josemiDev12/motokobootcamp2023"
 
 [[repo]]
+url = "https://github.com/JosephThuku/cybertrustescrow"
+
+[[repo]]
 url = "https://github.com/josh-x01/dfx_crypto_coin_bank"
 
 [[repo]]
@@ -10584,6 +11142,9 @@ url = "https://github.com/juanse0529/mbc2023-enrollment"
 url = "https://github.com/jucasoliveira/dWiki"
 
 [[repo]]
+url = "https://github.com/judevector/Vector-Protocol"
+
+[[repo]]
 url = "https://github.com/juliandebra/mbc2023-enrollment"
 
 [[repo]]
@@ -10612,6 +11173,9 @@ url = "https://github.com/junkei-okinawa/ii_auth_with_nextjs"
 
 [[repo]]
 url = "https://github.com/junkei-okinawa/internet-computer-rust-hello"
+
+[[repo]]
+url = "https://github.com/junkei-okinawa/llm_internet_computer"
 
 [[repo]]
 url = "https://github.com/junkei-okinawa/motoko-dbank-app"
@@ -10653,6 +11217,9 @@ url = "https://github.com/Justo28/day1goals"
 url = "https://github.com/Justo28/motokobootcamp"
 
 [[repo]]
+url = "https://github.com/justrunis/dbank"
+
+[[repo]]
 url = "https://github.com/jwiegley/quill"
 
 [[repo]]
@@ -10671,6 +11238,9 @@ url = "https://github.com/k4p1l/NOKAP-dfinity"
 url = "https://github.com/kabeer1327/blockbash"
 
 [[repo]]
+url = "https://github.com/kabornblack/dbank"
+
+[[repo]]
 url = "https://github.com/kabut000/CTF"
 
 [[repo]]
@@ -10687,6 +11257,9 @@ url = "https://github.com/kadulkaryash71/dbank-blockchain"
 
 [[repo]]
 url = "https://github.com/kalaibharath/dbank"
+
+[[repo]]
+url = "https://github.com/KaleF07/pomodoro_forest"
 
 [[repo]]
 url = "https://github.com/KaleF07/recipe-book"
@@ -10759,6 +11332,15 @@ url = "https://github.com/karimdabbouz/nu-s"
 
 [[repo]]
 url = "https://github.com/kashvee07/milkyway"
+
+[[repo]]
+url = "https://github.com/KasparPeterson/icp"
+
+[[repo]]
+url = "https://github.com/KasunAb/Dbank"
+
+[[repo]]
+url = "https://github.com/KasunAb/TOKEN-KAS"
 
 [[repo]]
 url = "https://github.com/KatiaMedina06/first_canister"
@@ -10949,6 +11531,12 @@ url = "https://github.com/kevinherman1104/Open_DAP"
 url = "https://github.com/KevinJavier0103/dbank"
 
 [[repo]]
+url = "https://github.com/kevinomiya/lesson_plan_xpress"
+
+[[repo]]
+url = "https://github.com/kevinomiya/resolution_realm"
+
+[[repo]]
 url = "https://github.com/kevinRifelKaiser/Crypto-Token"
 
 [[repo]]
@@ -11091,6 +11679,9 @@ url = "https://github.com/kinicdao/kindb"
 url = "https://github.com/kinicdao/kinic"
 
 [[repo]]
+url = "https://github.com/Kinyabundi/AgriForex-ICP"
+
+[[repo]]
 url = "https://github.com/Kinyabundi/ICP-Job-Board"
 
 [[repo]]
@@ -11199,6 +11790,13 @@ url = "https://github.com/Koeppen42/NFT-MarketPlace"
 url = "https://github.com/Koksi-cyber/Ratels-front-end"
 
 [[repo]]
+url = "https://github.com/komal-rs/post_upgrade_exp"
+
+[[repo]]
+url = "https://github.com/KompeteKeeda/kk-fe"
+missing = true
+
+[[repo]]
 url = "https://github.com/KOSASIH/Ontics"
 
 [[repo]]
@@ -11263,10 +11861,22 @@ url = "https://github.com/kristoferlund/ic-pos"
 url = "https://github.com/kristoferlund/ic-pos-notifications"
 
 [[repo]]
+url = "https://github.com/kristoferlund/ic-siwe"
+
+[[repo]]
 url = "https://github.com/kristoferlund/ic-siwe-react-demo-rust"
 
 [[repo]]
 url = "https://github.com/kristoferlund/ic-siwe-rust"
+
+[[repo]]
+url = "https://github.com/kristoferlund/ic-use-actor"
+
+[[repo]]
+url = "https://github.com/kristoferlund/ic-use-internet-identity"
+
+[[repo]]
+url = "https://github.com/kristoferlund/ic-use-internet-identity-demo"
 
 [[repo]]
 url = "https://github.com/kristoferlund/ic-wall"
@@ -11636,10 +12246,16 @@ url = "https://github.com/laconicRitesh/Keeper"
 url = "https://github.com/laishawadhwa/zk-dapp"
 
 [[repo]]
+url = "https://github.com/laksh-1052/real_innovault"
+
+[[repo]]
 url = "https://github.com/Lakshita018/blockchainnew"
 
 [[repo]]
 url = "https://github.com/LakshyaV/Unfake."
+
+[[repo]]
+url = "https://github.com/lalalune/ic-supabase"
 
 [[repo]]
 url = "https://github.com/lalalune/ic-webaverse-tradebot"
@@ -11793,6 +12409,9 @@ url = "https://github.com/LegendaryDeveloper32/ClaimIsland"
 url = "https://github.com/Legendexo/Web-master"
 
 [[repo]]
+url = "https://github.com/Leicht4422/small_biz"
+
+[[repo]]
 url = "https://github.com/LeKarimDerradji/awesome-dfinity"
 
 [[repo]]
@@ -11845,6 +12464,9 @@ missing = true
 
 [[repo]]
 url = "https://github.com/leo-web3/block-chain-wallet"
+
+[[repo]]
+url = "https://github.com/leoemcasa/webDevBootcamp"
 
 [[repo]]
 url = "https://github.com/leogzl-rust/nemoo-icp-web"
@@ -11908,6 +12530,9 @@ url = "https://github.com/letmejustputthishere/glue-bot"
 
 [[repo]]
 url = "https://github.com/letmejustputthishere/ic_assets"
+
+[[repo]]
+url = "https://github.com/letmejustputthishere/icrc7_launchpad"
 
 [[repo]]
 url = "https://github.com/letmejustputthishere/ii_integration_example"
@@ -12057,6 +12682,9 @@ url = "https://github.com/linnefromice/practice-icp"
 url = "https://github.com/linnefromice/practice-rust"
 
 [[repo]]
+url = "https://github.com/linnefromice/stable_memory_complex_struct"
+
+[[repo]]
 url = "https://github.com/linuxselcuk/motoko"
 
 [[repo]]
@@ -12088,6 +12716,9 @@ url = "https://github.com/litrane/cosmos_experiment_file"
 
 [[repo]]
 url = "https://github.com/litrane/docker_experiment_environent"
+
+[[repo]]
+url = "https://github.com/liucanhui-eng/ic-demo"
 
 [[repo]]
 url = "https://github.com/LiveDuo/cdk-rs"
@@ -12262,6 +12893,10 @@ url = "https://github.com/Luca8991/whats_my_ip"
 
 [[repo]]
 url = "https://github.com/LUCAS7478/ICP_Course02_Lesson1"
+
+[[repo]]
+url = "https://github.com/LucasGuerraS/dbank"
+missing = true
 
 [[repo]]
 url = "https://github.com/LucasGuerraS/dkeeper-motoko-react-dapp"
@@ -12769,6 +13404,10 @@ url = "https://github.com/marionrobert/token_motoko"
 url = "https://github.com/markany-lab/bigchain"
 
 [[repo]]
+url = "https://github.com/markgardner/dcity-app"
+missing = true
+
+[[repo]]
 url = "https://github.com/marksix/ICP"
 
 [[repo]]
@@ -12835,6 +13474,9 @@ url = "https://github.com/mashharuki/icp__dex"
 url = "https://github.com/mashharuki/ProtofiloDApp"
 
 [[repo]]
+url = "https://github.com/masnurrm/guess-number-game-ICP"
+
+[[repo]]
 url = "https://github.com/mason0510/certified-assets"
 
 [[repo]]
@@ -12856,7 +13498,13 @@ url = "https://github.com/massimoalbarello/portal"
 url = "https://github.com/mastapegs/docs"
 
 [[repo]]
+url = "https://github.com/Mate-Sol/Finance-Canister-ICP"
+
+[[repo]]
 url = "https://github.com/Mate-Sol/invoice-canister-icp"
+
+[[repo]]
+url = "https://github.com/Mate-Sol/Payment-Canister-ICP"
 
 [[repo]]
 url = "https://github.com/Mateus-Henr/Web-Development-Course"
@@ -13048,6 +13696,9 @@ url = "https://github.com/MayurSMahajan/motoko-base"
 url = "https://github.com/mbcse/web3one-webapp"
 
 [[repo]]
+url = "https://github.com/MburuGranton/kushitesdefi"
+
+[[repo]]
 url = "https://github.com/mcgrealife/internet-computer"
 
 [[repo]]
@@ -13079,6 +13730,9 @@ url = "https://github.com/MCLYang/nft-marketplace"
 
 [[repo]]
 url = "https://github.com/MCLYang/non-fungible-token"
+
+[[repo]]
+url = "https://github.com/mconstant/vue_project"
 
 [[repo]]
 url = "https://github.com/mcooper7649/dbank-dapp"
@@ -13114,6 +13768,9 @@ url = "https://github.com/mearaj/blockchain-inbox"
 
 [[repo]]
 url = "https://github.com/mechaquan/taggr"
+
+[[repo]]
+url = "https://github.com/medaskalis/practice-icp"
 
 [[repo]]
 url = "https://github.com/MEDICLEMDI/mdi"
@@ -13161,6 +13818,9 @@ url = "https://github.com/Melrain/React-Motoko-vite-template"
 url = "https://github.com/Melrain/React_Motoko"
 
 [[repo]]
+url = "https://github.com/memind/JavascriptTechs"
+
+[[repo]]
 url = "https://github.com/meodai/internet-identity"
 
 [[repo]]
@@ -13187,6 +13847,15 @@ url = "https://github.com/mertsahin89/motokobootcamp2023"
 
 [[repo]]
 url = "https://github.com/merttapik/Dkeeper"
+
+[[repo]]
+url = "https://github.com/mervanerenci/icp_http_request"
+
+[[repo]]
+url = "https://github.com/mervanerenci/ICP_NFT_DIP721"
+
+[[repo]]
+url = "https://github.com/mervanerenci/ICP_Vote_Project"
 
 [[repo]]
 url = "https://github.com/mervealtundeger/Patika"
@@ -13243,6 +13912,9 @@ url = "https://github.com/MeyerMincode/motokobootcamp2023-coreproject"
 
 [[repo]]
 url = "https://github.com/mfactory-lab/icp-solana-example"
+
+[[repo]]
+url = "https://github.com/mfthrq/codefest-thena-101"
 
 [[repo]]
 url = "https://github.com/mgmetastudio/fishverse_dashboard"
@@ -13371,6 +14043,18 @@ url = "https://github.com/MikePawel/BlockchAInBuddy"
 url = "https://github.com/mikepsinn/gitcoin-web"
 
 [[repo]]
+url = "https://github.com/mikeyolang/healthlogix"
+
+[[repo]]
+url = "https://github.com/mikeyolang/healthlogix-medchain"
+
+[[repo]]
+url = "https://github.com/mikeyolang/healthlogix2"
+
+[[repo]]
+url = "https://github.com/mikky-j/certify"
+
+[[repo]]
 url = "https://github.com/mikudristi/Blockbash"
 
 [[repo]]
@@ -13436,6 +14120,9 @@ url = "https://github.com/MintMW/FR_CAN"
 
 [[repo]]
 url = "https://github.com/MintMW/Main_DEV"
+
+[[repo]]
+url = "https://github.com/minyega/waste_watch"
 
 [[repo]]
 url = "https://github.com/MioQuispe/create-dfinity-app"
@@ -13508,6 +14195,9 @@ missing = true
 url = "https://github.com/mjid13/NFT-marketplace"
 
 [[repo]]
+url = "https://github.com/mjjainmanvi/dBank"
+
+[[repo]]
 url = "https://github.com/mjkoster/ODM-Examples"
 
 [[repo]]
@@ -13574,6 +14264,9 @@ url = "https://github.com/modclub-app/modclub_src"
 missing = true
 
 [[repo]]
+url = "https://github.com/modclub-app/rust-connect-py-ai-to-ic"
+
+[[repo]]
 url = "https://github.com/modclub-app/sdk"
 
 [[repo]]
@@ -13589,6 +14282,9 @@ missing = true
 
 [[repo]]
 url = "https://github.com/mohammedafsalofficial/DBank"
+
+[[repo]]
+url = "https://github.com/Mohd-anas0693/tonic_Integration"
 
 [[repo]]
 url = "https://github.com/Mohit-Kumar98/Buy-and-Sell-NFTs"
@@ -13622,6 +14318,9 @@ url = "https://github.com/moises-ph/motokobootcamp2023"
 
 [[repo]]
 url = "https://github.com/Mokshkapoor/Moksh"
+
+[[repo]]
+url = "https://github.com/Momo153-sys/ICP-homework-practice"
 
 [[repo]]
 url = "https://github.com/MondRam/ICP_Developer"
@@ -13859,6 +14558,12 @@ url = "https://github.com/mslavan/motokobootcamp2023"
 url = "https://github.com/mslavan/motokobootcamp2023-coreproject"
 
 [[repo]]
+url = "https://github.com/msmsolution/ICP_Project"
+
+[[repo]]
+url = "https://github.com/msmsolution/week3project"
+
+[[repo]]
 url = "https://github.com/msrisujan/Web-Devlopment"
 
 [[repo]]
@@ -13975,6 +14680,9 @@ missing = true
 url = "https://github.com/muskshi/exchange"
 
 [[repo]]
+url = "https://github.com/musllim/asset-lock"
+
+[[repo]]
 url = "https://github.com/must479/gitcoinclaim"
 
 [[repo]]
@@ -13985,6 +14693,9 @@ url = "https://github.com/Mustafa-Siddique/icp_react_starter"
 
 [[repo]]
 url = "https://github.com/mustafamoradi73/sunswap"
+
+[[repo]]
+url = "https://github.com/mutawalle/in_company"
 
 [[repo]]
 url = "https://github.com/MuteWhale/hello1"
@@ -14012,6 +14723,9 @@ url = "https://github.com/Muzikanto/icp-hello"
 
 [[repo]]
 url = "https://github.com/MVelascoWS/NFTonChain"
+
+[[repo]]
+url = "https://github.com/mvstoyan/ic-projects"
 
 [[repo]]
 url = "https://github.com/MwemaBlessed/ChamaChain"
@@ -14123,6 +14837,9 @@ url = "https://github.com/n3zt0r/DBank"
 url = "https://github.com/nabeel054002/terablock-task"
 
 [[repo]]
+url = "https://github.com/Nafidinara/jobFinder"
+
+[[repo]]
 url = "https://github.com/nahrinoda/dear-diary"
 missing = true
 
@@ -14221,6 +14938,9 @@ url = "https://github.com/nathanosdev/chump"
 missing = true
 
 [[repo]]
+url = "https://github.com/nathanosdev/dfx-playground"
+
+[[repo]]
 url = "https://github.com/nathanosdev/ic-webpack-plugin"
 
 [[repo]]
@@ -14251,6 +14971,9 @@ url = "https://github.com/NatLabs/BitSet"
 missing = true
 
 [[repo]]
+url = "https://github.com/NatLabs/certified-assets"
+
+[[repo]]
 url = "https://github.com/NatLabs/deflate.mo"
 
 [[repo]]
@@ -14269,6 +14992,9 @@ url = "https://github.com/NatLabs/moh"
 url = "https://github.com/NatLabs/MultiValuedMap"
 
 [[repo]]
+url = "https://github.com/NatLabs/RootishBuffer"
+
+[[repo]]
 url = "https://github.com/NatLabs/serde"
 
 [[repo]]
@@ -14279,6 +15005,9 @@ url = "https://github.com/NatLabs/template.mo"
 
 [[repo]]
 url = "https://github.com/NatLabs/web-api"
+
+[[repo]]
+url = "https://github.com/naufalrf4/thena-101-codefest"
 
 [[repo]]
 url = "https://github.com/NaveenJsr/Decentralized-Notes-Keeper"
@@ -14394,6 +15123,18 @@ missing = true
 url = "https://github.com/Neu-BlockChain/NeuBlockChain-Website"
 
 [[repo]]
+url = "https://github.com/Neutrinomic/defi_aggregator"
+
+[[repo]]
+url = "https://github.com/Neutrinomic/defivectors"
+
+[[repo]]
+url = "https://github.com/Neutrinomic/external_gf_validators"
+
+[[repo]]
+url = "https://github.com/Neutrinomic/icrc1_ape_20"
+
+[[repo]]
 url = "https://github.com/NeutronStarDAO/nsdao_web"
 
 [[repo]]
@@ -14433,6 +15174,9 @@ url = "https://github.com/NewtonGomez/motoko"
 
 [[repo]]
 url = "https://github.com/Nexai-app/nexi-v1"
+
+[[repo]]
+url = "https://github.com/nezovskii/assistant-deBot"
 
 [[repo]]
 url = "https://github.com/NFoithong/My-first-Defi-Decentralised-Finance-DApp-DBANK"
@@ -14515,6 +15259,12 @@ url = "https://github.com/NiamhSpingies/The-Vault"
 missing = true
 
 [[repo]]
+url = "https://github.com/nick-y-ito/ic-dbank"
+
+[[repo]]
+url = "https://github.com/nick-y-ito/ic-dkeeper"
+
+[[repo]]
 url = "https://github.com/nickcen/btc_lite_wallet"
 
 [[repo]]
@@ -14533,6 +15283,9 @@ missing = true
 
 [[repo]]
 url = "https://github.com/NidhiBolia/Dbank"
+
+[[repo]]
+url = "https://github.com/NidhiBolia/dKeeper"
 
 [[repo]]
 url = "https://github.com/NidNidhogg/dbanxter"
@@ -14566,6 +15319,9 @@ url = "https://github.com/nikhil-p21/NFT_MarketPlace"
 
 [[repo]]
 url = "https://github.com/nikhilchopra08/BigBossVotingOnWeb3"
+
+[[repo]]
+url = "https://github.com/nikhilchopra08/EstateHub"
 
 [[repo]]
 url = "https://github.com/NikhilCodes04/icp"
@@ -14620,6 +15376,10 @@ url = "https://github.com/Nima-Ra/lecture"
 url = "https://github.com/Nimakra/CarbonFootprintAssistant"
 
 [[repo]]
+url = "https://github.com/Nimakra/oneweb3"
+missing = true
+
+[[repo]]
 url = "https://github.com/nimesh5911/blockchain-project"
 
 [[repo]]
@@ -14651,6 +15411,9 @@ url = "https://github.com/ninegua/reversi"
 
 [[repo]]
 url = "https://github.com/ninegua/tipjar"
+
+[[repo]]
+url = "https://github.com/ninoaddict/laundry-app-ICP"
 
 [[repo]]
 url = "https://github.com/ninowalker/docs"
@@ -14766,6 +15529,9 @@ url = "https://github.com/nmattia/cdk-rs"
 url = "https://github.com/nmattia/sdk"
 
 [[repo]]
+url = "https://github.com/nmunyengwa2019/extended-hackathon-e-KYC"
+
+[[repo]]
 url = "https://github.com/nnatroo/dbank-app"
 
 [[repo]]
@@ -14863,6 +15629,10 @@ url = "https://github.com/noamrubin22/soluna"
 
 [[repo]]
 url = "https://github.com/NOBLBLOCKS/NOBLEBLOCKS-PUB"
+
+[[repo]]
+url = "https://github.com/NOBLBLOCKS/NOBLEBLOCKS-PUBLIC"
+missing = true
 
 [[repo]]
 url = "https://github.com/Nock-zz/ic-projects"
@@ -14988,6 +15758,9 @@ url = "https://github.com/noxonsu/LotteryFactory"
 url = "https://github.com/NoyalMasih/to-do-list"
 
 [[repo]]
+url = "https://github.com/nparcher24/angular-dfx-azle-ii"
+
+[[repo]]
 url = "https://github.com/nry0629/ii_client_sample"
 
 [[repo]]
@@ -14998,6 +15771,10 @@ url = "https://github.com/nttrilongxuyen/rnd"
 missing = true
 
 [[repo]]
+url = "https://github.com/nuktalab/safechain-react"
+missing = true
+
+[[repo]]
 url = "https://github.com/nunoking03/travweb"
 
 [[repo]]
@@ -15005,6 +15782,15 @@ url = "https://github.com/nutcas3/starter-motoko"
 
 [[repo]]
 url = "https://github.com/nuwanarti/ad-recommendation-latest"
+
+[[repo]]
+url = "https://github.com/nuwrldnf8r/coffee_app"
+
+[[repo]]
+url = "https://github.com/nuwrldnf8r/coffee_app_icp"
+
+[[repo]]
+url = "https://github.com/nuwrldnf8r/geosearch_canister"
 
 [[repo]]
 url = "https://github.com/nwakaku/creatie-nft"
@@ -15269,6 +16055,9 @@ url = "https://github.com/olumorothy/Smart-Contract-Vulnerability-Detection"
 url = "https://github.com/OluseunDesina/dbank"
 
 [[repo]]
+url = "https://github.com/Oluwatunmise116/ICP"
+
+[[repo]]
 url = "https://github.com/OMANSH45/nftMarketplace"
 
 [[repo]]
@@ -15281,6 +16070,12 @@ url = "https://github.com/omeraskn/ICPBootcamp"
 url = "https://github.com/omerpakdil/ICP_Vote"
 
 [[repo]]
+url = "https://github.com/omondisteven/bltaqr_dapp"
+
+[[repo]]
+url = "https://github.com/omondisteven/bltaqr_scan_gen"
+
+[[repo]]
 url = "https://github.com/Omzlaw/dbank"
 
 [[repo]]
@@ -15291,6 +16086,9 @@ url = "https://github.com/on-nix/pkgs"
 
 [[repo]]
 url = "https://github.com/onehilltech/blueprint"
+
+[[repo]]
+url = "https://github.com/onehilltech/ember-cli-dfinity"
 
 [[repo]]
 url = "https://github.com/onelove001/DOVE-TOKEN"
@@ -15311,6 +16109,10 @@ url = "https://github.com/onemu02/motoko_bootcamp"
 url = "https://github.com/onevroad/motoko-test"
 
 [[repo]]
+url = "https://github.com/onlineocean/ICP"
+missing = true
+
+[[repo]]
 url = "https://github.com/onlineocean/launchbar"
 missing = true
 
@@ -15328,6 +16130,25 @@ url = "https://github.com/onlyontrax/trax_song_nft_backend"
 
 [[repo]]
 url = "https://github.com/onlyontrax/TraxDAO"
+
+[[repo]]
+url = "https://github.com/onyekachi11/Verxio-ICP-Zero-To-dApp"
+
+[[repo]]
+url = "https://github.com/opadougie/candid_example"
+missing = true
+
+[[repo]]
+url = "https://github.com/opadougie/counter"
+missing = true
+
+[[repo]]
+url = "https://github.com/opadougie/dependencies"
+missing = true
+
+[[repo]]
+url = "https://github.com/opadougie/e2e_tests"
+missing = true
 
 [[repo]]
 url = "https://github.com/open-chat-labs/icp-notifications"
@@ -15375,7 +16196,16 @@ url = "https://github.com/Or0chimaru/lesson4"
 url = "https://github.com/Or0chimaru/lesson5"
 
 [[repo]]
+url = "https://github.com/orally-network/apollo"
+
+[[repo]]
 url = "https://github.com/orally-network/oracle"
+
+[[repo]]
+url = "https://github.com/orally-network/pythia"
+
+[[repo]]
+url = "https://github.com/orally-network/sybil"
 
 [[repo]]
 url = "https://github.com/orally-network/website"
@@ -15412,6 +16242,9 @@ url = "https://github.com/osas2211/pet-registry-rust"
 url = "https://github.com/Oscda1/Battleship"
 
 [[repo]]
+url = "https://github.com/OSK-GITHUBB/first_icp_project"
+
+[[repo]]
 url = "https://github.com/Ostix626/Motoko-Bootcamp"
 
 [[repo]]
@@ -15428,6 +16261,12 @@ url = "https://github.com/Overchute/overchute-app"
 
 [[repo]]
 url = "https://github.com/ovichowdhury/Eth-KYC"
+
+[[repo]]
+url = "https://github.com/owenthe10x/ICP-Codefest-5Byte"
+
+[[repo]]
+url = "https://github.com/owenthe10x/unique-icp-canister"
 
 [[repo]]
 url = "https://github.com/OxC0/ic_db"
@@ -15590,6 +16429,12 @@ url = "https://github.com/panlinnuo/mysite"
 url = "https://github.com/pao0318/IC_motoko"
 
 [[repo]]
+url = "https://github.com/PaoloCarlevero/InternetComputerPeople"
+
+[[repo]]
+url = "https://github.com/PaoloCarlevero/portfolio"
+
+[[repo]]
 url = "https://github.com/pardeep5516/notes"
 
 [[repo]]
@@ -15606,6 +16451,9 @@ url = "https://github.com/PartageProtocol/partage-icp"
 
 [[repo]]
 url = "https://github.com/parth-atara/Crypto-token-and-NFT-marketplace"
+
+[[repo]]
+url = "https://github.com/parth-songire23/DBank"
 
 [[repo]]
 url = "https://github.com/Parth0921/nft-MarketPlace"
@@ -15675,6 +16523,9 @@ url = "https://github.com/paulbellamy/dfinity-ip-checker"
 url = "https://github.com/paullla/IPC-test-app"
 
 [[repo]]
+url = "https://github.com/paulous/p_00"
+
+[[repo]]
 url = "https://github.com/paulyoung/crane-wasm-issue"
 
 [[repo]]
@@ -15688,6 +16539,9 @@ url = "https://github.com/PavanSargar/ICP-token"
 
 [[repo]]
 url = "https://github.com/PavanSargar/nft-marketplace-ic"
+
+[[repo]]
+url = "https://github.com/PawanAK/ICP-bootcamp"
 
 [[repo]]
 url = "https://github.com/pdafoto/dao-adventure"
@@ -15711,6 +16565,9 @@ url = "https://github.com/pepeleceren/ICP-Rust-Bootcamp-FinalCase"
 url = "https://github.com/PerpCrypto/PrediXMarket"
 
 [[repo]]
+url = "https://github.com/perun-network/perun-icp-backend"
+
+[[repo]]
 url = "https://github.com/perun-network/perun-icp-canister"
 
 [[repo]]
@@ -15718,6 +16575,9 @@ url = "https://github.com/perun-network/perun-icp-demo"
 
 [[repo]]
 url = "https://github.com/peteoleary/loan-zkp-blockchain"
+
+[[repo]]
+url = "https://github.com/peter-0015/Renewable-Energy-Credit-Management-System"
 
 [[repo]]
 url = "https://github.com/peterpeterparker/agentjswebworker"
@@ -15832,6 +16692,9 @@ url = "https://github.com/PetuchoDev/STIF"
 
 [[repo]]
 url = "https://github.com/petya0111/dfinity-token-listing"
+
+[[repo]]
+url = "https://github.com/PewterZz/smart_polls"
 
 [[repo]]
 url = "https://github.com/pfffffffft/TourismRecommendation"
@@ -15984,6 +16847,9 @@ url = "https://github.com/PixelFr0ggie/The-Complete-Web-Development-Bootcamp"
 url = "https://github.com/Piyotr-K/NWHacks2018"
 
 [[repo]]
+url = "https://github.com/Piyush24102000/InternetComputer"
+
+[[repo]]
 url = "https://github.com/pizzasuperapp/DfinityPizza"
 
 [[repo]]
@@ -16004,6 +16870,12 @@ missing = true
 url = "https://github.com/pkanyu/hallo_world"
 
 [[repo]]
+url = "https://github.com/pkanyu/Jiji-but-Decentarilized"
+
+[[repo]]
+url = "https://github.com/pkanyu/world_hallo"
+
+[[repo]]
 url = "https://github.com/placeparks/icp-_first"
 
 [[repo]]
@@ -16011,6 +16883,9 @@ url = "https://github.com/placidmoon1/icp_connect"
 
 [[repo]]
 url = "https://github.com/plind-dm/bunny-fork"
+
+[[repo]]
+url = "https://github.com/PLoperu/marine_species_database"
 
 [[repo]]
 url = "https://github.com/pniedzwiedzinski/nixpkgs-db"
@@ -16189,6 +17064,9 @@ url = "https://github.com/PrimLabs/Bucket"
 url = "https://github.com/PrimLabs/DataBox-cargoApp"
 
 [[repo]]
+url = "https://github.com/PrimLabs/databox-js-sdk"
+
+[[repo]]
 url = "https://github.com/PrimLabs/IC-Research"
 
 [[repo]]
@@ -16205,6 +17083,9 @@ url = "https://github.com/PrimLabs/ICSP"
 
 [[repo]]
 url = "https://github.com/PrimLabs/ISP-SDK"
+
+[[repo]]
+url = "https://github.com/PrimLabs/isp_js_sdk"
 
 [[repo]]
 url = "https://github.com/PrimLabs/MetaBox-SDK"
@@ -16371,6 +17252,9 @@ url = "https://github.com/pu0238/pluto"
 url = "https://github.com/pu0238/vote-me"
 
 [[repo]]
+url = "https://github.com/pu0238/vote_me"
+
+[[repo]]
 url = "https://github.com/pugsneverdie/day_1_motoko"
 
 [[repo]]
@@ -16513,6 +17397,9 @@ url = "https://github.com/qwerty1249/dbank"
 url = "https://github.com/r-birkner/internet-identity"
 
 [[repo]]
+url = "https://github.com/R-Marconi01/Tracy"
+
+[[repo]]
 url = "https://github.com/R-Santev/ICP-feedback-system"
 
 [[repo]]
@@ -16599,6 +17486,10 @@ url = "https://github.com/RajBhattacharyya/Web3.0-DBank"
 
 [[repo]]
 url = "https://github.com/rajdeep7Singh/icp_multisig"
+
+[[repo]]
+url = "https://github.com/RajeshRk18/first-canister-icp"
+missing = true
 
 [[repo]]
 url = "https://github.com/rajivpo/linguist"
@@ -16723,7 +17614,13 @@ url = "https://github.com/raymondbonnmendoza/hello"
 url = "https://github.com/raymondbonnmendoza/ICNerds"
 
 [[repo]]
+url = "https://github.com/raymondchooi/hom3page"
+
+[[repo]]
 url = "https://github.com/raymondfx/uptechafrica"
+
+[[repo]]
+url = "https://github.com/Rayrsn/nft-stable-memory"
 
 [[repo]]
 url = "https://github.com/rayyan21d/automeda"
@@ -16846,6 +17743,9 @@ url = "https://github.com/rem-code-s/canister_file_manager_frontend"
 url = "https://github.com/rem-code-s/canister_file_manager_native_app"
 
 [[repo]]
+url = "https://github.com/rem-code-s/query_blocks"
+
+[[repo]]
 url = "https://github.com/renartlabsicp/ICLand"
 
 [[repo]]
@@ -16876,8 +17776,14 @@ url = "https://github.com/renypayus/internet_computer"
 url = "https://github.com/RES-lab/sample-project"
 
 [[repo]]
+url = "https://github.com/research-ag/canister-profiling"
+
+[[repo]]
 url = "https://github.com/research-ag/hpl"
 missing = true
+
+[[repo]]
+url = "https://github.com/research-ag/hpl-stats"
 
 [[repo]]
 url = "https://github.com/research-ag/motoko-lib"
@@ -16890,6 +17796,9 @@ url = "https://github.com/research-ag/promtracker"
 
 [[repo]]
 url = "https://github.com/research-ag/stable_enumeration"
+
+[[repo]]
+url = "https://github.com/research-ag/streams"
 
 [[repo]]
 url = "https://github.com/research-ag/swb"
@@ -17056,6 +17965,9 @@ url = "https://github.com/riokum27/VistaWeather"
 url = "https://github.com/rise-in-rust-bootcamp/exercises"
 
 [[repo]]
+url = "https://github.com/Rise-In/ICP_Vote_Template"
+
+[[repo]]
 url = "https://github.com/Rishabh-Rawat/dkeeper"
 
 [[repo]]
@@ -17139,6 +18051,12 @@ url = "https://github.com/riya1511/DKeeper"
 
 [[repo]]
 url = "https://github.com/RIYAARORA20/Blockchain"
+
+[[repo]]
+url = "https://github.com/rjlee276/defi"
+
+[[repo]]
+url = "https://github.com/rjlee276/rjl-token"
 
 [[repo]]
 url = "https://github.com/rkarcade/defi_dapp_ic"
@@ -17295,6 +18213,10 @@ url = "https://github.com/roger-rangel/NFT_Marketplace_ICP"
 url = "https://github.com/roger-rangel/Segenie"
 
 [[repo]]
+url = "https://github.com/roger-rangel/Segenie_Final"
+missing = true
+
+[[repo]]
 url = "https://github.com/roger-rangel/Token_Internet_Computer"
 missing = true
 
@@ -17342,6 +18264,9 @@ url = "https://github.com/romario333/azle_hello_world"
 
 [[repo]]
 url = "https://github.com/RomarQ/michelson-sdk"
+
+[[repo]]
+url = "https://github.com/ronaldolipata/dbank"
 
 [[repo]]
 url = "https://github.com/ronyderra/xpjs"
@@ -17574,7 +18499,13 @@ url = "https://github.com/s1dc0des/motokobootcamp2023"
 url = "https://github.com/s1dc0des/motokobootcamp2023-project"
 
 [[repo]]
+url = "https://github.com/s3341458/icp_hackathon"
+
+[[repo]]
 url = "https://github.com/s3341458/icp_homework1"
+
+[[repo]]
+url = "https://github.com/s3341458/icp_homework2"
 
 [[repo]]
 url = "https://github.com/SabeloSibanda/motoko_bootcamp"
@@ -17627,6 +18558,9 @@ url = "https://github.com/sagacards/vote"
 
 [[repo]]
 url = "https://github.com/sagatarot/alpha-deck"
+
+[[repo]]
+url = "https://github.com/sagcryptoicp/alfangodb"
 
 [[repo]]
 url = "https://github.com/sagcryptoicp/memo"
@@ -17752,13 +18686,24 @@ url = "https://github.com/sam-the-tutor/ICP-Rust-Submission"
 url = "https://github.com/sam-the-tutor/icp_bootcamp2023"
 
 [[repo]]
+url = "https://github.com/sam-the-tutor/icpTest"
+missing = true
+
+[[repo]]
 url = "https://github.com/sam-the-tutor/identityLogin-template"
+
+[[repo]]
+url = "https://github.com/sam-the-tutor/idTest"
+missing = true
 
 [[repo]]
 url = "https://github.com/sam-the-tutor/motokobootcamp2023"
 
 [[repo]]
 url = "https://github.com/sam-the-tutor/React-Motoko-II-Template"
+
+[[repo]]
+url = "https://github.com/Sama-X/sama_icp"
 
 [[repo]]
 url = "https://github.com/Samairaachhabra/SAT-2023-workshop"
@@ -17798,6 +18743,18 @@ url = "https://github.com/samjiks/service_provider"
 
 [[repo]]
 url = "https://github.com/samlinux-development/c-02"
+
+[[repo]]
+url = "https://github.com/samlinux-development/ic-astro-svelte"
+
+[[repo]]
+url = "https://github.com/samlinux-development/ic-svelte"
+
+[[repo]]
+url = "https://github.com/samlinux-development/ic-svelte-starter"
+
+[[repo]]
+url = "https://github.com/samlinux-development/ic-sveltekit"
 
 [[repo]]
 url = "https://github.com/samlinux/angularMeetsII"
@@ -17943,6 +18900,9 @@ url = "https://github.com/sanselena/take-1"
 url = "https://github.com/SanskarDhyani98/bmi"
 
 [[repo]]
+url = "https://github.com/santi-giraldo2/motoko-camp"
+
+[[repo]]
 url = "https://github.com/SantiagoDePolonia/guestbook_ic"
 
 [[repo]]
@@ -17977,6 +18937,9 @@ url = "https://github.com/sardariuss/MotokoStableBTreeTest"
 
 [[repo]]
 url = "https://github.com/sardariuss/MotokoTestLib"
+
+[[repo]]
+url = "https://github.com/sardariuss/ordinals_canister"
 
 [[repo]]
 url = "https://github.com/sardariuss/vite-react-motoko"
@@ -18031,6 +18994,9 @@ url = "https://github.com/sathwikNARKEDimilli29/Decentralised_iNotebook"
 
 [[repo]]
 url = "https://github.com/sathwikNARKEDimilli29/Gabbar-Singh-NFT-MarketSpace"
+
+[[repo]]
+url = "https://github.com/satish13579/academic_ecertificates"
 
 [[repo]]
 url = "https://github.com/satish13579/ic_choices"
@@ -18237,6 +19203,9 @@ url = "https://github.com/selfrule/dacheng_ic_site"
 url = "https://github.com/seliniremozdogan/Final-Case-IC"
 
 [[repo]]
+url = "https://github.com/senior-0015/Blood-Donation-Drive-Smart-Contract"
+
+[[repo]]
 url = "https://github.com/seniorjoinu/Bonus"
 
 [[repo]]
@@ -18294,6 +19263,12 @@ url = "https://github.com/sentientforest/tutorials"
 url = "https://github.com/senunn/crypto-token"
 
 [[repo]]
+url = "https://github.com/sergey-melnychuk/icp-onchain-ecdsa"
+
+[[repo]]
+url = "https://github.com/sergeybykov85/ic-content-package"
+
+[[repo]]
 url = "https://github.com/sergeybykov85/ic-storage-service"
 
 [[repo]]
@@ -18348,6 +19323,9 @@ url = "https://github.com/ShakivAli/nft-mint"
 url = "https://github.com/shalexbas/ic-app-vue-3-ts-template"
 
 [[repo]]
+url = "https://github.com/Shamba-Kikwetu/SK-ICP"
+
+[[repo]]
 url = "https://github.com/Shambhavi-coder/blockchain"
 
 [[repo]]
@@ -18375,6 +19353,12 @@ url = "https://github.com/Shariq12345/Keeper-App-Mokoto"
 url = "https://github.com/SharonAnyona/RealBlock"
 
 [[repo]]
+url = "https://github.com/SharonAnyona/RealBlock_Motoko"
+
+[[repo]]
+url = "https://github.com/Sharqiewicz/icp_game"
+
+[[repo]]
 url = "https://github.com/Shashank-k-prabhu/ICP-Voting-Bootcamp"
 
 [[repo]]
@@ -18400,6 +19384,10 @@ url = "https://github.com/shawnrmoss/dangular"
 
 [[repo]]
 url = "https://github.com/Shee1608/ICP-Project"
+missing = true
+
+[[repo]]
+url = "https://github.com/sheegull/ICP-Basic-DEX"
 missing = true
 
 [[repo]]
@@ -18446,8 +19434,17 @@ url = "https://github.com/ShikuLabs/agent-rs_modified"
 url = "https://github.com/ShikuLabs/agent-unity"
 
 [[repo]]
+url = "https://github.com/ShikuLabs/canister_factory"
+
+[[repo]]
 url = "https://github.com/ShikuLabs/ext_based_721"
 missing = true
+
+[[repo]]
+url = "https://github.com/ShikuLabs/ext_based_dip721_lib"
+
+[[repo]]
+url = "https://github.com/ShikuLabs/vote_canister"
 
 [[repo]]
 url = "https://github.com/shinjinisen/banking_funda"
@@ -18516,7 +19513,13 @@ url = "https://github.com/shobhitjuglan/block_bash"
 url = "https://github.com/Shoolin-studio/savesoil_dao"
 
 [[repo]]
+url = "https://github.com/Shounak31/Dbank"
+
+[[repo]]
 url = "https://github.com/shourya6105/memory-card-game"
+
+[[repo]]
+url = "https://github.com/shovo4/dbank"
 
 [[repo]]
 url = "https://github.com/Showyilu/dfinity_hello"
@@ -18767,6 +19770,10 @@ url = "https://github.com/sirmwilu/Accessory-management-canister"
 url = "https://github.com/sirmwilu/patient-management-system-canister"
 
 [[repo]]
+url = "https://github.com/sirmwilu/smart-home-controller-canister"
+missing = true
+
+[[repo]]
 url = "https://github.com/Sirtwitter/new"
 
 [[repo]]
@@ -18871,6 +19878,12 @@ url = "https://github.com/slide-computer/slide-token"
 
 [[repo]]
 url = "https://github.com/slide-computer/tokens-js"
+
+[[repo]]
+url = "https://github.com/Slmii/circuitz"
+
+[[repo]]
+url = "https://github.com/Slmii/circuitz-backend"
 
 [[repo]]
 url = "https://github.com/Slmii/dappbox"
@@ -18995,6 +20008,9 @@ url = "https://github.com/Sobolev5/PyScheduler"
 url = "https://github.com/SofiaCamposH/HydroSense"
 
 [[repo]]
+url = "https://github.com/SoftCysec/ICP-3D-Metaverse"
+
+[[repo]]
 url = "https://github.com/SoftCysec/LinkedIn-ICP-Canister"
 
 [[repo]]
@@ -19034,6 +20050,15 @@ url = "https://github.com/SomyaRanjanSahu/VimaanWay"
 
 [[repo]]
 url = "https://github.com/sondreb/keybase"
+
+[[repo]]
+url = "https://github.com/sonicdex/icrc-1-public"
+
+[[repo]]
+url = "https://github.com/sonicdex/motoko-token-canister"
+
+[[repo]]
+url = "https://github.com/sonicdex/sonic-app"
 
 [[repo]]
 url = "https://github.com/sonicdex/sonic-v1"
@@ -19184,6 +20209,9 @@ url = "https://github.com/starprince7/Motoko-Crud-API"
 url = "https://github.com/steliyannedev/workouts-icp-contract"
 
 [[repo]]
+url = "https://github.com/stenlisuryadinata/testnet_app"
+
+[[repo]]
 url = "https://github.com/stepandra/orbi.tez"
 missing = true
 
@@ -19192,6 +20220,9 @@ url = "https://github.com/stephanfevrier/OpenModelica"
 
 [[repo]]
 url = "https://github.com/StephanusFischer/portal"
+
+[[repo]]
+url = "https://github.com/stephen-gitihinji/bank_loan_application_canister"
 
 [[repo]]
 url = "https://github.com/Stephen-Kimoi/icp-azle-biolerplate-code"
@@ -19210,6 +20241,12 @@ url = "https://github.com/SteveMaybe/dfinity-vue-starter"
 
 [[repo]]
 url = "https://github.com/stevob14/crypto-rss-feeds"
+
+[[repo]]
+url = "https://github.com/StG999/Decentralized-Bank-App"
+
+[[repo]]
+url = "https://github.com/StG999/Decentralized-React-NotesKeeper-App"
 
 [[repo]]
 url = "https://github.com/StJohnErvin/DApp-DBank"
@@ -19294,6 +20331,9 @@ url = "https://github.com/studna/wrapped_cycles"
 
 [[repo]]
 url = "https://github.com/stumpigit/icmaps"
+
+[[repo]]
+url = "https://github.com/subarbanape/ic-nft-utils-py-main"
 
 [[repo]]
 url = "https://github.com/Subha-5/DBANK-Decentralised-Finance-app-"
@@ -19421,6 +20461,9 @@ url = "https://github.com/surajadine/car_Sell"
 missing = true
 
 [[repo]]
+url = "https://github.com/surajaswal29/block-bank-icp"
+
+[[repo]]
 url = "https://github.com/SuratShakar16/CRYPTOBOX"
 
 [[repo]]
@@ -19533,6 +20576,13 @@ url = "https://github.com/SYS-NG/MediData"
 
 [[repo]]
 url = "https://github.com/SysLogica/taggr_sns_bot"
+
+[[repo]]
+url = "https://github.com/SysLogica/windoge98-vue"
+
+[[repo]]
+url = "https://github.com/Szegoo/Segenie-js"
+missing = true
 
 [[repo]]
 url = "https://github.com/szomer/Web3-Apps"
@@ -19742,6 +20792,9 @@ url = "https://github.com/Tekkadan96/Example-build-a-token-on-ICP-Bloockchain"
 url = "https://github.com/telescolawrence/warriors_ledger"
 
 [[repo]]
+url = "https://github.com/TemanKamu/worker_payment"
+
+[[repo]]
 url = "https://github.com/temptemp3/web"
 
 [[repo]]
@@ -19863,6 +20916,9 @@ url = "https://github.com/Theanchhing/opend"
 
 [[repo]]
 url = "https://github.com/TheBikeChain/BikeChain.io"
+
+[[repo]]
+url = "https://github.com/TheBous/thebouscoin-icrc"
 
 [[repo]]
 url = "https://github.com/thedeveloperyug/CipherWorld_BlockChainApp"
@@ -20014,6 +21070,9 @@ url = "https://github.com/timk11/guildnotes"
 url = "https://github.com/timk11/multisig-wallet"
 
 [[repo]]
+url = "https://github.com/timk11/uniswap-edpr"
+
+[[repo]]
 url = "https://github.com/timloden/calcoin"
 
 [[repo]]
@@ -20065,6 +21124,9 @@ url = "https://github.com/TipToe888/motokobootcamp2023-coreproject"
 url = "https://github.com/Titan-Codes/Dbank"
 
 [[repo]]
+url = "https://github.com/tjdibbs/icp_hello_world"
+
+[[repo]]
 url = "https://github.com/TJhon/motoko"
 
 [[repo]]
@@ -20080,7 +21142,13 @@ url = "https://github.com/TNhanVL/Banket_hackathon"
 url = "https://github.com/TNhanVL/day2"
 
 [[repo]]
+url = "https://github.com/tobiaswu/icp-hackathon"
+
+[[repo]]
 url = "https://github.com/tobyjaguar/dfx_test"
+
+[[repo]]
+url = "https://github.com/ToddLGarrison/ic-dbank"
 
 [[repo]]
 url = "https://github.com/Tohit17/T"
@@ -20101,7 +21169,16 @@ url = "https://github.com/tokuryoo/motokobootcamp-rust-tokuryoo"
 url = "https://github.com/tokuryoo/motokobootcamp_day6"
 
 [[repo]]
+url = "https://github.com/tolgayayci/dfinity-dfx-gui"
+
+[[repo]]
 url = "https://github.com/tomburgerch/mbc-enrollment"
+
+[[repo]]
+url = "https://github.com/tomhazledine/loft-orbital-challenge"
+
+[[repo]]
+url = "https://github.com/tomhazledine/svg-graph-toolkit"
 
 [[repo]]
 url = "https://github.com/tomijaga/format.mo"
@@ -20147,6 +21224,9 @@ missing = true
 
 [[repo]]
 url = "https://github.com/tomkoom/nftminter"
+
+[[repo]]
+url = "https://github.com/tomkoom/str"
 
 [[repo]]
 url = "https://github.com/tommccann777/dfinity_hashmap_demo"
@@ -20304,6 +21384,9 @@ url = "https://github.com/Tricky4/dfinity"
 url = "https://github.com/Tricky4/examples"
 
 [[repo]]
+url = "https://github.com/triipme/basic_referral_motoko_sample"
+
+[[repo]]
 url = "https://github.com/triipme/dfinity-oracle-weather"
 
 [[repo]]
@@ -20365,6 +21448,10 @@ url = "https://github.com/tuminfei/ic_jwt"
 
 [[repo]]
 url = "https://github.com/tuminfei/ic_nft_creater"
+
+[[repo]]
+url = "https://github.com/tuminfei/ic_nft_creator"
+missing = true
 
 [[repo]]
 url = "https://github.com/tuminzee/icp-tbb"
@@ -20459,6 +21546,9 @@ url = "https://github.com/ulan/motoko"
 url = "https://github.com/ulan/portal"
 
 [[repo]]
+url = "https://github.com/ulego/motoko_first_project"
+
+[[repo]]
 url = "https://github.com/ultrabot2022/trade-console"
 
 [[repo]]
@@ -20490,6 +21580,9 @@ url = "https://github.com/umeklinks/motoko_nft_minter"
 
 [[repo]]
 url = "https://github.com/umgefahren/sdk"
+
+[[repo]]
+url = "https://github.com/Umudvarr/InternetComputerNetwork"
 
 [[repo]]
 url = "https://github.com/unchain-dev/encrypted-notes"
@@ -20619,11 +21712,18 @@ missing = true
 url = "https://github.com/v2i0s2h2/FeedBack"
 
 [[repo]]
+url = "https://github.com/v2i0s2h2/First_project_Dapp"
+missing = true
+
+[[repo]]
 url = "https://github.com/v2i0s2h2/hello-rust"
 missing = true
 
 [[repo]]
 url = "https://github.com/v2i0s2h2/httpOutcalls"
+
+[[repo]]
+url = "https://github.com/v2i0s2h2/ICP-JobPortal"
 
 [[repo]]
 url = "https://github.com/v2i0s2h2/mbc_final_project"
@@ -20686,6 +21786,10 @@ url = "https://github.com/vaibhav-oo7/openD-nft-marketplace"
 url = "https://github.com/vaibhav-oo7/token-local-privee"
 
 [[repo]]
+url = "https://github.com/vaibhavmobilefirst/Macrosifter-Development"
+missing = true
+
+[[repo]]
 url = "https://github.com/vaibhavs150/Dbank"
 missing = true
 
@@ -20738,6 +21842,12 @@ missing = true
 [[repo]]
 url = "https://github.com/vamsi-tupakula/employee_management_system"
 missing = true
+
+[[repo]]
+url = "https://github.com/vanderoo/doctor-info-ic-canister"
+
+[[repo]]
+url = "https://github.com/vanderoo/medicine-management-ic-canister"
 
 [[repo]]
 url = "https://github.com/vanditshah44/compounding"
@@ -20809,6 +21919,9 @@ url = "https://github.com/VataBlaze/motokobootcamp2023-core_project"
 url = "https://github.com/VatsalCS/Blockchain-Workshop"
 
 [[repo]]
+url = "https://github.com/Vault-Bets/templates"
+
+[[repo]]
 url = "https://github.com/vcollak/learnMotoko"
 
 [[repo]]
@@ -20836,10 +21949,19 @@ url = "https://github.com/vedthakur5/Flipkart-Grid"
 url = "https://github.com/VeerniVishwanath/OpenD"
 
 [[repo]]
+url = "https://github.com/veeso-dev/icrc2-template-canister"
+
+[[repo]]
 url = "https://github.com/veeso/stable_structs"
 
 [[repo]]
 url = "https://github.com/veighnsche/examples"
+
+[[repo]]
+url = "https://github.com/ven8462/caesar_cipher_in_ICP"
+
+[[repo]]
+url = "https://github.com/ven8462/InvestorMatch"
 
 [[repo]]
 url = "https://github.com/ven8462/rides_front_end"
@@ -20877,6 +21999,9 @@ url = "https://github.com/verkhohliad/raffly"
 url = "https://github.com/VFans-org/VFANS-IC"
 
 [[repo]]
+url = "https://github.com/vibeverse-team/vibe-token"
+
+[[repo]]
 url = "https://github.com/vibeverse-team/vibeverse"
 
 [[repo]]
@@ -20901,6 +22026,9 @@ url = "https://github.com/VictorH74/dkeeper"
 
 [[repo]]
 url = "https://github.com/VictorH74/Post-Page_with_Blockchain"
+
+[[repo]]
+url = "https://github.com/VictorJesusReaValencia/Azle"
 
 [[repo]]
 url = "https://github.com/victorsh/adventure-chess"
@@ -20972,6 +22100,9 @@ url = "https://github.com/vincent-dfinity/portal"
 url = "https://github.com/vincent-kartamulya/ICP_Vote-main"
 
 [[repo]]
+url = "https://github.com/vincentyono/icp-social-media-simulator"
+
+[[repo]]
 url = "https://github.com/vincesmandres/VerazHub"
 
 [[repo]]
@@ -21005,6 +22136,9 @@ url = "https://github.com/Virus-Axel/grizzly"
 url = "https://github.com/visit-dav/visit-deps"
 
 [[repo]]
+url = "https://github.com/vitalvirtue/ICP_smart_contract_weather_app"
+
+[[repo]]
 url = "https://github.com/vitalvirtue/vote-contract"
 
 [[repo]]
@@ -21017,6 +22151,9 @@ url = "https://github.com/VitalyGitDev/motokobootcamp2023"
 url = "https://github.com/Vitomir2/family-expense-canister"
 
 [[repo]]
+url = "https://github.com/vivekjami/goals"
+
+[[repo]]
 url = "https://github.com/vivekjami/ICB-vote-contract"
 
 [[repo]]
@@ -21024,6 +22161,10 @@ url = "https://github.com/vivekjami/Projects"
 
 [[repo]]
 url = "https://github.com/vivekratr/CrowdFunding"
+
+[[repo]]
+url = "https://github.com/vivekratr/CrowdFunding-master"
+missing = true
 
 [[repo]]
 url = "https://github.com/vivektangudu2024/CryptoToken"
@@ -21042,6 +22183,9 @@ url = "https://github.com/vperizes/DBank_App"
 
 [[repo]]
 url = "https://github.com/vperizes/dkeeper_ICapp"
+
+[[repo]]
+url = "https://github.com/vpkaushik11/dkeeper"
 
 [[repo]]
 url = "https://github.com/vporton/motoko_can_bug"
@@ -21151,7 +22295,16 @@ url = "https://github.com/walidmujahid/web"
 url = "https://github.com/wallstreetbull/Motoko_Bootcamp"
 
 [[repo]]
+url = "https://github.com/wannesds/bootcamp2023Q2"
+
+[[repo]]
+url = "https://github.com/wannesds/ICpolly"
+
+[[repo]]
 url = "https://github.com/wannesds/MoBC22-challenges"
+
+[[repo]]
+url = "https://github.com/wannesds/MoBC23_first_project"
 
 [[repo]]
 url = "https://github.com/wannesds/motokobootcamp2023"
@@ -21178,6 +22331,9 @@ url = "https://github.com/wanxiang-blockchain/2021Wanxiang-Blockchain-Hackathon-
 url = "https://github.com/wanxiang-blockchain/2022-Wanxiang-Blockchain-Spring-Hackathon-Dante-Network"
 
 [[repo]]
+url = "https://github.com/warrenshiv/smart_recipe"
+
+[[repo]]
 url = "https://github.com/wasm-forge/demo1"
 
 [[repo]]
@@ -21185,6 +22341,9 @@ url = "https://github.com/wasm-forge/demo2"
 
 [[repo]]
 url = "https://github.com/wasm-forge/ic-wasi-polyfill"
+
+[[repo]]
+url = "https://github.com/wasm-forge/stable-fs"
 
 [[repo]]
 url = "https://github.com/wasolomon98/ArenaProject"
@@ -21243,6 +22402,10 @@ missing = true
 
 [[repo]]
 url = "https://github.com/We4Bu/ICPC5"
+
+[[repo]]
+url = "https://github.com/WEARFITS/dfinity"
+missing = true
 
 [[repo]]
 url = "https://github.com/weavedb/nostr-relay"
@@ -21369,6 +22532,9 @@ url = "https://github.com/whkelvin/Unit"
 url = "https://github.com/whoabuddy/lnstxbridge-client"
 
 [[repo]]
+url = "https://github.com/whoisgalih/document_management_icp_canister"
+
+[[repo]]
 url = "https://github.com/wichapons/Blockchain-project-test"
 
 [[repo]]
@@ -21392,6 +22558,9 @@ missing = true
 url = "https://github.com/wildmouse/dfinity-todo-example"
 
 [[repo]]
+url = "https://github.com/wildonion/zoomate"
+
+[[repo]]
 url = "https://github.com/willguest/icvr-react"
 
 [[repo]]
@@ -21411,6 +22580,10 @@ url = "https://github.com/WilliamMcRoberts/CustomGreetingInternetComputerDemo.Re
 
 [[repo]]
 url = "https://github.com/WilliamMcRoberts/dbank"
+
+[[repo]]
+url = "https://github.com/WilliamMcRoberts/ic_leaks"
+missing = true
 
 [[repo]]
 url = "https://github.com/WilliamMcRoberts/pollcreate.Svelte"
@@ -21436,6 +22609,9 @@ url = "https://github.com/winterjihwan/ICP-vercel"
 
 [[repo]]
 url = "https://github.com/winterjihwan/social_valley_ICP"
+
+[[repo]]
+url = "https://github.com/wirapratamaz/ICP-RUST"
 
 [[repo]]
 url = "https://github.com/Wirenation/natswaponline"
@@ -21514,7 +22690,13 @@ url = "https://github.com/worker-decentralized-network/contracts"
 url = "https://github.com/worker-decentralized-network/WDN-Network"
 
 [[repo]]
+url = "https://github.com/WorldOfUnreal/chatsdk"
+
+[[repo]]
 url = "https://github.com/worldofunreal/cosmicrafts-motoko-backend"
+
+[[repo]]
+url = "https://github.com/WorldOfUnreal/IC-Hub-React"
 
 [[repo]]
 url = "https://github.com/woutblockx/Dbank"
@@ -21640,6 +22822,9 @@ url = "https://github.com/xiaoquanmi/ICBasic"
 
 [[repo]]
 url = "https://github.com/xiaoyuanxun/Counter"
+
+[[repo]]
+url = "https://github.com/xiaoyuanxun/Dawnlight"
 
 [[repo]]
 url = "https://github.com/xiaoyuanxun/DIP20"
@@ -21829,6 +23014,9 @@ url = "https://github.com/yanweifreemc/hello"
 url = "https://github.com/yanweifreemc/my_counter"
 
 [[repo]]
+url = "https://github.com/yaodongdui/ydd-icp"
+
+[[repo]]
 url = "https://github.com/yaololo/note-taking-project"
 
 [[repo]]
@@ -21889,6 +23077,10 @@ url = "https://github.com/Yathur-11/project1"
 
 [[repo]]
 url = "https://github.com/yenilikci/dbank"
+
+[[repo]]
+url = "https://github.com/yes-but-also-no/icmoji_battle_test_nft"
+missing = true
 
 [[repo]]
 url = "https://github.com/yes-but-also-no/rock_paper_scissors"
@@ -22047,6 +23239,12 @@ url = "https://github.com/Yuji-Itadorii/Decenteralised-Finance-App"
 url = "https://github.com/Yuji-Itadorii/Decenteralised-Keeper-App"
 
 [[repo]]
+url = "https://github.com/YukiEuler/ICP-taxi-reservation"
+
+[[repo]]
+url = "https://github.com/yukuapp/canister-factory"
+
+[[repo]]
 url = "https://github.com/yummyweb/icpbuilder"
 
 [[repo]]
@@ -22129,10 +23327,16 @@ missing = true
 url = "https://github.com/zaidsaid-007/auth-smart-contract"
 
 [[repo]]
+url = "https://github.com/zaidsaid-007/ICP-practice"
+
+[[repo]]
 url = "https://github.com/zaidsaid-007/Shamba-Kikwetu"
 
 [[repo]]
 url = "https://github.com/zaidsaid-007/To-do-app"
+
+[[repo]]
+url = "https://github.com/zaidsaid-007/Vidchain"
 
 [[repo]]
 url = "https://github.com/zaikis/nft-marketplace-main"
@@ -22285,6 +23489,12 @@ url = "https://github.com/ZimHook/ICPBalance"
 url = "https://github.com/zinct/icp-canister"
 
 [[repo]]
+url = "https://github.com/zinct/license_management_icp_canister"
+
+[[repo]]
+url = "https://github.com/zinct/terrax"
+
+[[repo]]
 url = "https://github.com/zinhunter/dynamic-nft-motoko"
 
 [[repo]]
@@ -22337,6 +23547,10 @@ url = "https://github.com/zmzm/dbank"
 url = "https://github.com/zmzm/dkeeper"
 
 [[repo]]
+url = "https://github.com/zo0r/icmoji-battle"
+missing = true
+
+[[repo]]
 url = "https://github.com/zom87760277/l1"
 
 [[repo]]
@@ -22359,6 +23573,12 @@ url = "https://github.com/zom87760277/testa"
 
 [[repo]]
 url = "https://github.com/Zombieliu/PlayerLink-Community"
+
+[[repo]]
+url = "https://github.com/Zona-Tres/azle-wallet"
+
+[[repo]]
+url = "https://github.com/Zona-Tres/building-in-icp-with-azle"
 
 [[repo]]
 url = "https://github.com/Zona-Tres/dynamic-nft-motoko"
@@ -22387,6 +23607,9 @@ url = "https://github.com/zou-yu/icp-lesson-3"
 
 [[repo]]
 url = "https://github.com/zou-yu/icp-micro-blog"
+
+[[repo]]
+url = "https://github.com/zouyuxuan/dfinity"
 
 [[repo]]
 url = "https://github.com/ZSandro/ICProfile"
@@ -22437,1307 +23660,85 @@ url = "https://github.com/zzethh/NFT-Marketplace"
 url = "https://github.com/zzethh/Zebra-Crypto-Token"
 
 [[repo]]
-url = "https://github.com/ic-dstar/ic-notes"
+url = "https://github.com/Hajorda/motoko_todo"
 
 [[repo]]
-url = "https://github.com/phaniel1111/Motoko_Bootcamp"
+url = "https://github.com/dogukaan1/icp_homework_1"
 
 [[repo]]
-url = "https://github.com/yk-saito/encrypted_notes"
+url = "https://github.com/furkancetinalp/icp_bootcamp_homework_three"
 
 [[repo]]
-url = "https://github.com/markgardner/dcity-app"
+url = "https://github.com/aliveevie/homework_3"
 
 [[repo]]
-url = "https://github.com/Gekctek/motoko_cbor"
+url = "https://github.com/ibrahimiddogan/ICP_Homework1"
 
 [[repo]]
-url = "https://github.com/Gekctek/motoko_candid"
+url = "https://github.com/nesimozgun/ICP-Homework3"
 
 [[repo]]
-url = "https://github.com/aramakme/candy_library"
+url = "https://github.com/Johnycrown/weather_contract"
 
 [[repo]]
-url = "https://github.com/ALLiDoizCode/Dip721-communitycoin"
+url = "https://github.com/tugberk963/ICP_Internship_Bootcamp_Homework3"
 
 [[repo]]
-url = "https://github.com/Gekctek/motoko_numbers"
+url = "https://github.com/Tahinli/motoko-todo-canister"
 
 [[repo]]
-url = "https://github.com/COS666/TinTin-Primary-Course"
+url = "https://github.com/aliasim16/motoko_tutorial"
 
 [[repo]]
-url = "https://github.com/yes-but-also-no/icmoji_battle_test_nft"
+url = "https://github.com/aslinazdayi/Risein-Rust-Workshop-Motoko-ToDo-List"
 
 [[repo]]
-url = "https://github.com/AbbasTheDev/ICP-NFT-marketplace"
+url = "https://github.com/aslinazdayi/Risein-Rust-Workshop-qrCode"
 
 [[repo]]
-url = "https://github.com/COS666/TinTin-Advanced-Course"
+url = "https://github.com/AtaGn/icp-Motoko"
 
 [[repo]]
-url = "https://github.com/karimdabbouz/ic-user"
+url = "https://github.com/AtaGn/icp_Rust"
 
 [[repo]]
-url = "https://github.com/Gekctek/subscription_protocol"
+url = "https://github.com/atayiilmaz/icp-ToDoAppOnMotoko"
 
 [[repo]]
-url = "https://github.com/zo0r/icmoji-battle"
+url = "https://github.com/atayiilmaz/icpRustBootcamp-qrcode"
 
 [[repo]]
-url = "https://github.com/AshtonEngberg/doyoutodo"
+url = "https://github.com/sh3rly13/motoko_tutorial"
 
 [[repo]]
-url = "https://github.com/AbbasTheDev/Dfinity-Internet-Computer-Bank"
+url = "https://github.com/DogukanTopcu/icp_risein_rust_workshop"
 
 [[repo]]
-url = "https://github.com/roger-rangel/Segenie_Final"
+url = "https://github.com/tubi16/motoko_tutorial"
 
 [[repo]]
-url = "https://github.com/Sindhuinti/nft-dfinity"
+url = "https://github.com/tubi16/qrcode"
 
 [[repo]]
-url = "https://github.com/InternetComputerOG/Sample-Dapp"
+url = "https://github.com/emrekndl/qrcode"
 
 [[repo]]
-url = "https://github.com/AbbasTheDev/ICP-crypto-token"
+url = "https://github.com/emreozturk12/rust_workshop"
 
 [[repo]]
-url = "https://github.com/LucasGuerraS/dbank"
+url = "https://github.com/emreozturk12/motoko_workshop"
 
 [[repo]]
-url = "https://github.com/Gekctek/ICP.NET"
+url = "https://github.com/Enesylcn/Rise-in_Rust_Workshop"
 
 [[repo]]
-url = "https://github.com/branciard/sandblessunction"
+url = "https://github.com/enesmanan/icp-rust-workshop"
 
 [[repo]]
-url = "https://github.com/fowlerlee/dapp"
+url = "https://github.com/sabancihan/motoko_tutorial"
 
 [[repo]]
-url = "https://github.com/sheegull/ICP-Basic-DEX"
+url = "https://github.com/gokselhkn/qrcode"
 
 [[repo]]
-url = "https://github.com/fowlerlee/motokobootcamp2023-coreproject-lee"
-
-[[repo]]
-url = "https://github.com/RajeshRk18/first-canister-icp"
-
-[[repo]]
-url = "https://github.com/ALLiDoizCode/Your-Coin"
-
-[[repo]]
-url = "https://github.com/CapuzR/chainedAirdrop"
-
-[[repo]]
-url = "https://github.com/jesssekeogh/bonsai_dapp"
-
-[[repo]]
-url = "https://github.com/kritzcreek/vessel"
-
-[[repo]]
-url = "https://github.com/lopezm94/dfinity-local-hello"
-
-[[repo]]
-url = "https://github.com/matthewhammer/ic-game-terminal"
-
-[[repo]]
-url = "https://github.com/tomijaga/MoH"
-
-[[repo]]
-url = "https://github.com/anonymousGiga/beefy_light_client_on_icp"
-
-[[repo]]
-url = "https://github.com/beamingHigher/ic-token"
-
-[[repo]]
-url = "https://github.com/Fq2112/mbc-enrollment"
-
-[[repo]]
-url = "https://github.com/b3hr4d/b3-users"
-
-[[repo]]
-url = "https://github.com/wasm-forge/ic_polyfill"
-
-[[repo]]
-url = "https://github.com/sam-the-tutor/idTest"
-
-[[repo]]
-url = "https://github.com/vaibhavmobilefirst/Macrosifter-Development"
-
-[[repo]]
-url = "https://github.com/v2i0s2h2/First_project_Dapp"
-
-[[repo]]
-url = "https://github.com/Szegoo/Segenie-js"
-
-[[repo]]
-url = "https://github.com/onlineocean/ICP"
-
-[[repo]]
-url = "https://github.com/sam-the-tutor/icpTest"
-
-[[repo]]
-url = "https://github.com/cryptoisgood/sardinesaregood"
-
-[[repo]]
-url = "https://github.com/infu/bug_x_weird"
-
-[[repo]]
-url = "https://github.com/bluebird912/DBANK-Decentralised-Finance-app-"
-
-[[repo]]
-url = "https://github.com/dogles16/rpg"
-
-[[repo]]
-url = "https://github.com/parth-songire23/DBank"
-
-[[repo]]
-url = "https://github.com/fairtale5/BB"
-
-[[repo]]
-url = "https://github.com/iamenochchirima/websockets-motoko"
-
-[[repo]]
-url = "https://github.com/IvyZayn/DKeeper-Decentralized-WebApp"
-
-[[repo]]
-url = "https://github.com/iamenochchirima/nexuschats-motoko"
-
-[[repo]]
-url = "https://github.com/tomhazledine/svg-graph-toolkit"
-
-[[repo]]
-url = "https://github.com/tomhazledine/loft-orbital-challenge"
-
-[[repo]]
-url = "https://github.com/bhanvara/d-donateHub"
-
-[[repo]]
-url = "https://github.com/GM-11/dwitter"
-
-[[repo]]
-url = "https://github.com/bhanvara/d-notes-keeper"
-
-[[repo]]
-url = "https://github.com/selcukemiravci/LittlePicasso-"
-
-[[repo]]
-url = "https://github.com/enthuzzed/brr"
-
-[[repo]]
-url = "https://github.com/sirmwilu/smart-home-controller-canister"
-
-[[repo]]
-url = "https://github.com/tuminfei/ic_nft_creator"
-
-[[repo]]
-url = "https://github.com/fastinom/Taskhub"
-
-[[repo]]
-url = "https://github.com/Jonath-z/azle-start"
-
-[[repo]]
-url = "https://github.com/ven8462/caesar_cipher_in_ICP"
-
-[[repo]]
-url = "https://github.com/githukelvin/lux-hackathon"
-
-[[repo]]
-url = "https://github.com/Nafidinara/jobFinder"
-
-[[repo]]
-url = "https://github.com/akmalhisyammm/ticketing-system-icp"
-
-[[repo]]
-url = "https://github.com/ChJ4m3s/voting_pools_icp"
-
-[[repo]]
-url = "https://github.com/adamcanray/IC-Rust-PubSub"
-
-[[repo]]
-url = "https://github.com/Slmii/circuitz-backend"
-
-[[repo]]
-url = "https://github.com/Oluwatunmise116/ICP"
-
-[[repo]]
-url = "https://github.com/Collins-Ruto/patient-records"
-
-[[repo]]
-url = "https://github.com/PLoperu/marine_species_database"
-
-[[repo]]
-url = "https://github.com/Rayrsn/nft-stable-memory"
-
-[[repo]]
-url = "https://github.com/branciard/kybra-integration-test"
-
-[[repo]]
-url = "https://github.com/abundance-io/secretpay_ledger"
-
-[[repo]]
-url = "https://github.com/timk11/uniswap-edpr"
-
-[[repo]]
-url = "https://github.com/mikky-j/certify"
-
-[[repo]]
-url = "https://github.com/Rise-In/ICP_Vote_Template"
-
-[[repo]]
-url = "https://github.com/grandzero/icp-voting"
-
-[[repo]]
-url = "https://github.com/cantrk21/ICP_Vote_Template-main"
-
-[[repo]]
-url = "https://github.com/Dolazdev/FoodHub"
-
-[[repo]]
-url = "https://github.com/ducviet00/icp-repos-crud-typescript"
-
-[[repo]]
-url = "https://github.com/TemanKamu/worker_payment"
-
-[[repo]]
-url = "https://github.com/vincentyono/icp-smart-contract"
-
-[[repo]]
-url = "https://github.com/minyega/waste_watch"
-
-[[repo]]
-url = "https://github.com/Haryinde/My-travel"
-
-[[repo]]
-url = "https://github.com/abundance-io/propspace"
-
-[[repo]]
-url = "https://github.com/pu0238/vote_me"
-
-[[repo]]
-url = "https://github.com/ducviet00/icp-rust-repos-crud"
-
-[[repo]]
-url = "https://github.com/warrenshiv/smart_recipe"
-
-[[repo]]
-url = "https://github.com/vincentyono/icp-social-media-simulator"
-
-[[repo]]
-url = "https://github.com/Dolazdev/FoodChop"
-
-[[repo]]
-url = "https://github.com/PewterZz/smart_polls"
-
-[[repo]]
-url = "https://github.com/Firdausfarul/malicious-contract-detector"
-
-[[repo]]
-url = "https://github.com/Chelle007/cinema_ticket_ICP"
-
-[[repo]]
-url = "https://github.com/edbertjk/smart_contracts_token"
-
-[[repo]]
-url = "https://github.com/angganion/Library-System"
-
-[[repo]]
-url = "https://github.com/stephen-gitihinji/bank_loan_application_canister"
-
-[[repo]]
-url = "https://github.com/TheBous/dfinity-nft"
-
-[[repo]]
-url = "https://github.com/douyixuan/like_ranking"
-
-[[repo]]
-url = "https://github.com/jefftrojan/azle-smart-contract"
-
-[[repo]]
-url = "https://github.com/infu/verify_dao_sns_account"
-
-[[repo]]
-url = "https://github.com/WilliamMcRoberts/ic_leaks"
-
-[[repo]]
-url = "https://github.com/0xzre/icp-1"
-
-[[repo]]
-url = "https://github.com/0xzre/icp-2"
-
-[[repo]]
-url = "https://github.com/ninoaddict/laundry-app-ICP"
-
-[[repo]]
-url = "https://github.com/ImanuelSG/Stock-Canister"
-
-[[repo]]
-url = "https://github.com/santi-giraldo2/motoko-camp"
-
-[[repo]]
-url = "https://github.com/kevinomiya/resolution_realm"
-
-[[repo]]
-url = "https://github.com/GeorgeMuchen/blockchain-icp"
-
-[[repo]]
-url = "https://github.com/cycle-express/cycle-express"
-
-[[repo]]
-url = "https://github.com/epic-bear/dbank-Web3.0"
-
-[[repo]]
-url = "https://github.com/Deemazter07/dbank"
-
-[[repo]]
-url = "https://github.com/KasparPeterson/icp"
-
-[[repo]]
-url = "https://github.com/calledAdo/Quotex"
-
-[[repo]]
-url = "https://github.com/discordance/icp_music"
-
-[[repo]]
-url = "https://github.com/tjdibbs/icp_hello_world"
-
-[[repo]]
-url = "https://github.com/ArielRobotti/RandomClass"
-
-[[repo]]
-url = "https://github.com/s3341458/icp_hackathon"
-
-[[repo]]
-url = "https://github.com/chriss1525/task_manager"
-
-[[repo]]
-url = "https://github.com/anjolagithub/vote"
-
-[[repo]]
-url = "https://github.com/0verlanche/task_manager"
-
-[[repo]]
-url = "https://github.com/icsneed/sneed_sns_dapp"
-
-[[repo]]
-url = "https://github.com/Sharqiewicz/icp_game"
-
-[[repo]]
-url = "https://github.com/kevinomiya/lesson_plan_xpress"
-
-[[repo]]
-url = "https://github.com/fGhost713/Sli-SwapApp"
-
-[[repo]]
-url = "https://github.com/vpkaushik11/dkeeper"
-
-[[repo]]
-url = "https://github.com/PawanAK/ICP-bootcamp"
-
-[[repo]]
-url = "https://github.com/beyzanur314/Internet-Computer-Internship-Bootcamp"
-
-[[repo]]
-url = "https://github.com/msmsolution/ICP_Project"
-
-[[repo]]
-url = "https://github.com/mervanerenci/ICP_Vote_Project"
-
-[[repo]]
-url = "https://github.com/alperburakdgn/icp_project"
-
-[[repo]]
-url = "https://github.com/bilgin-kocak/icp-voting"
-
-[[repo]]
-url = "https://github.com/nuwrldnf8r/coffee_app"
-
-[[repo]]
-url = "https://github.com/b3hr4d/ic-typescript-starter"
-
-[[repo]]
-url = "https://github.com/Slmii/circuitz"
-
-[[repo]]
-url = "https://github.com/TheBous/thebouscoin-icrc"
-
-[[repo]]
-url = "https://github.com/xiaoyuanxun/Dawnlight"
-
-[[repo]]
-url = "https://github.com/cylim/dareto"
-
-[[repo]]
-url = "https://github.com/docken-styles/Planet"
-
-[[repo]]
-url = "https://github.com/fawazalrasyid/icp-codefest"
-
-[[repo]]
-url = "https://github.com/zinct/terrax"
-
-[[repo]]
-url = "https://github.com/alifmufthi91/IC_clinic_allocation"
-
-[[repo]]
-url = "https://github.com/YukiEuler/ICP-taxi-reservation"
-
-[[repo]]
-url = "https://github.com/alifmufthi91/IC_Patient_Register"
-
-[[repo]]
-url = "https://github.com/vanderoo/doctor-info-ic-canister"
-
-[[repo]]
-url = "https://github.com/owenthe10x/unique-icp-canister"
-
-[[repo]]
-url = "https://github.com/whoisgalih/document_management_icp_canister"
-
-[[repo]]
-url = "https://github.com/AfifArdhiansyah/presence-app-ICP"
-
-[[repo]]
-url = "https://github.com/achmadst/VoteContract"
-
-[[repo]]
-url = "https://github.com/arleenchr/parking-system-icp"
-
-[[repo]]
-url = "https://github.com/naufalrf4/thena-101-codefest"
-
-[[repo]]
-url = "https://github.com/ahmadridhoramadhan/to_do_list_with_azle"
-
-[[repo]]
-url = "https://github.com/AfifArdhiansyah/guess-number-ICP"
-
-[[repo]]
-url = "https://github.com/mutawalle/in_company"
-
-[[repo]]
-url = "https://github.com/vanderoo/medicine-management-ic-canister"
-
-[[repo]]
-url = "https://github.com/masnurrm/guess-number-game-ICP"
-
-[[repo]]
-url = "https://github.com/zinct/license_management_icp_canister"
-
-[[repo]]
-url = "https://github.com/mfthrq/codefest-thena-101"
-
-[[repo]]
-url = "https://github.com/ekkymulia/ekky-101-azle"
-
-[[repo]]
-url = "https://github.com/lalalune/ic-supabase"
-
-[[repo]]
-url = "https://github.com/KasunAb/Dbank"
-
-[[repo]]
-url = "https://github.com/wannesds/MoBC23_first_project"
-
-[[repo]]
-url = "https://github.com/delcin-raj/todo_icp"
-
-[[repo]]
-url = "https://github.com/Mohd-anas0693/tonic_Integration"
-
-[[repo]]
-url = "https://github.com/shovo4/dbank"
-
-[[repo]]
-url = "https://github.com/b3hr4d/motoko-nextjs-ic-starter"
-
-[[repo]]
-url = "https://github.com/kristoferlund/ic-use-actor"
-
-[[repo]]
-url = "https://github.com/KaleF07/pomodoro_forest"
-
-[[repo]]
-url = "https://github.com/nmunyengwa2019/extended-hackathon-e-KYC"
-
-[[repo]]
-url = "https://github.com/ahdrahees/feed-backy"
-
-[[repo]]
-url = "https://github.com/wannesds/ICpolly"
-
-[[repo]]
-url = "https://github.com/NidhiBolia/dKeeper"
-
-[[repo]]
-url = "https://github.com/kristoferlund/ic-siwe"
-
-[[repo]]
-url = "https://github.com/nezovskii/assistant-deBot"
-
-[[repo]]
-url = "https://github.com/felirenee/ChainCrafted"
-
-[[repo]]
-url = "https://github.com/dipanshuhappy/dkim-kybra"
-
-[[repo]]
-url = "https://github.com/linnefromice/stable_memory_complex_struct"
-
-[[repo]]
-url = "https://github.com/0k-0k/water-conservation-monitor"
-
-[[repo]]
-url = "https://github.com/nuwrldnf8r/coffee_app_icp"
-
-[[repo]]
-url = "https://github.com/flyq/ICTornado"
-
-[[repo]]
-url = "https://github.com/hide-yoshi/evm-price-oracle"
-
-[[repo]]
-url = "https://github.com/chriss1525/library"
-
-[[repo]]
-url = "https://github.com/wannesds/bootcamp2023Q2"
-
-[[repo]]
-url = "https://github.com/ulego/motoko_first_project"
-
-[[repo]]
-url = "https://github.com/flyq/ecdsa_poc"
-
-[[repo]]
-url = "https://github.com/zouyuxuan/dfinity"
-
-[[repo]]
-url = "https://github.com/s3341458/icp_homework2"
-
-[[repo]]
-url = "https://github.com/subarbanape/ic-nft-utils-py-main"
-
-[[repo]]
-url = "https://github.com/berke-s-deniz/wallet-icp"
-
-[[repo]]
-url = "https://github.com/1-Rishav/OpenD"
-
-[[repo]]
-url = "https://github.com/Piyush24102000/InternetComputer"
-
-[[repo]]
-url = "https://github.com/omondisteven/bltaqr_scan_gen"
-
-[[repo]]
-url = "https://github.com/omondisteven/bltaqr_dapp"
-
-[[repo]]
-url = "https://github.com/sergeybykov85/ic-content-package"
-
-[[repo]]
-url = "https://github.com/owenthe10x/ICP-Codefest-5Byte"
-
-[[repo]]
-url = "https://github.com/zaidsaid-007/Vidchain"
-
-[[repo]]
-url = "https://github.com/akmalhisyammm/myhealth"
-
-[[repo]]
-url = "https://github.com/dev-opus/icp-ems"
-
-[[repo]]
-url = "https://github.com/opadougie/e2e_tests"
-
-[[repo]]
-url = "https://github.com/fernadaArrieta/Motoko-Bootcamp"
-
-[[repo]]
-url = "https://github.com/opadougie/dependencies"
-
-[[repo]]
-url = "https://github.com/JosephThuku/cybertrustescrow"
-
-[[repo]]
-url = "https://github.com/opadougie/counter"
-
-[[repo]]
-url = "https://github.com/ArielRobotti/Mushroom_Protocol_2024"
-
-[[repo]]
-url = "https://github.com/fernadaArrieta/mbc_enrollement"
-
-[[repo]]
-url = "https://github.com/opadougie/candid_example"
-
-[[repo]]
-url = "https://github.com/SoftCysec/ICP-3D-Metaverse"
-
-[[repo]]
-url = "https://github.com/dev-opus/event-manager"
-
-[[repo]]
-url = "https://github.com/mconstant/vue_project"
-
-[[repo]]
-url = "https://github.com/hanbu97/ic-card"
-
-[[repo]]
-url = "https://github.com/surajaswal29/block-bank-icp"
-
-[[repo]]
-url = "https://github.com/Kinyabundi/AgriForex-ICP"
-
-[[repo]]
-url = "https://github.com/zaidsaid-007/ICP-practice"
-
-[[repo]]
-url = "https://github.com/musllim/asset-lock"
-
-[[repo]]
-url = "https://github.com/gkilch1/Notes-DApp"
-
-[[repo]]
-url = "https://github.com/kristoferlund/ic-use-internet-identity-demo"
-
-[[repo]]
-url = "https://github.com/iclighthouse/ICHouse"
-
-[[repo]]
-url = "https://github.com/AustinChris1/myjunoapp"
-
-[[repo]]
-url = "https://github.com/MburuGranton/kushitesdefi"
-
-[[repo]]
-url = "https://github.com/imodoiepale/E-Cyber-Automation-of-Immigration-Applications--Web-3--Spill-Over-Hackathon-ICP"
-
-[[repo]]
-url = "https://github.com/cylim/resolution"
-
-[[repo]]
-url = "https://github.com/grahampasmurf/MotokoBootcamp"
-
-[[repo]]
-url = "https://github.com/PaoloCarlevero/portfolio"
-
-[[repo]]
-url = "https://github.com/gaollg/icp_learning"
-
-[[repo]]
-url = "https://github.com/ALLiDoizCode/pipeline_test"
-
-[[repo]]
-url = "https://github.com/raymondchooi/hom3page"
-
-[[repo]]
-url = "https://github.com/iamenochchirima/bitcoin"
-
-[[repo]]
-url = "https://github.com/sardariuss/ordinals_canister"
-
-[[repo]]
-url = "https://github.com/dorcasndungu/consensUs"
-
-[[repo]]
-url = "https://github.com/StG999/Decentralized-React-NotesKeeper-App"
-
-[[repo]]
-url = "https://github.com/ToddLGarrison/ic-dbank"
-
-[[repo]]
-url = "https://github.com/mikeyolang/healthlogix"
-
-[[repo]]
-url = "https://github.com/mikeyolang/healthlogix-medchain"
-
-[[repo]]
-url = "https://github.com/mikeyolang/healthlogix2"
-
-[[repo]]
-url = "https://github.com/liucanhui-eng/ic-demo"
-
-[[repo]]
-url = "https://github.com/PaoloCarlevero/InternetComputerPeople"
-
-[[repo]]
-url = "https://github.com/DeelanLasrado/DBank-html-css-js-motoko-"
-
-[[repo]]
-url = "https://github.com/vivekratr/CrowdFunding-master"
-
-[[repo]]
-url = "https://github.com/Bonfacekiprop/Event_Booking"
-
-[[repo]]
-url = "https://github.com/DeelanLasrado/DKeeper-React-Motoko-"
-
-[[repo]]
-url = "https://github.com/johnxiaohe/icp-dnote"
-
-[[repo]]
-url = "https://github.com/pkanyu/Jiji-but-Decentarilized"
-
-[[repo]]
-url = "https://github.com/tomkoom/str"
-
-[[repo]]
-url = "https://github.com/R-Marconi01/Tracy"
-
-[[repo]]
-url = "https://github.com/laksh-1052/real_innovault"
-
-[[repo]]
-url = "https://github.com/medaskalis/practice-icp"
-
-[[repo]]
-url = "https://github.com/amschel99/rust-101-icp"
-
-[[repo]]
-url = "https://github.com/imsk17/todo-icp"
-
-[[repo]]
-url = "https://github.com/wildonion/zoomate"
-
-[[repo]]
-url = "https://github.com/Leicht4422/small_biz"
-
-[[repo]]
-url = "https://github.com/fredski02/darket"
-
-[[repo]]
-url = "https://github.com/mervanerenci/icp_http_request"
-
-[[repo]]
-url = "https://github.com/junkei-okinawa/llm_internet_computer"
-
-[[repo]]
-url = "https://github.com/pkanyu/world_hallo"
-
-[[repo]]
-url = "https://github.com/VictorJesusReaValencia/Azle"
-
-[[repo]]
-url = "https://github.com/divin3circle/vite-react-azle"
-
-[[repo]]
-url = "https://github.com/Nimakra/oneweb3"
-
-[[repo]]
-url = "https://github.com/nparcher24/angular-dfx-azle-ii"
-
-[[repo]]
-url = "https://github.com/blaz1988/MushroomScanner-ICP"
-
-[[repo]]
-url = "https://github.com/dipanshuhappy/dindex_icp"
-
-[[repo]]
-url = "https://github.com/wirapratamaz/ICP-RUST"
-
-[[repo]]
-url = "https://github.com/DICKSON-hub32/icp-dacade-rust"
-
-[[repo]]
-url = "https://github.com/AustinChris1/myjunoapp2"
-
-[[repo]]
-url = "https://github.com/justrunis/dbank"
-
-[[repo]]
-url = "https://github.com/mvstoyan/ic-projects"
-
-[[repo]]
-url = "https://github.com/judevector/Vector-Protocol"
-
-[[repo]]
-url = "https://github.com/ilialor/ava-check"
-
-[[repo]]
-url = "https://github.com/StG999/Decentralized-Bank-App"
-
-[[repo]]
-url = "https://github.com/ven8462/InvestorMatch"
-
-[[repo]]
-url = "https://github.com/kabornblack/dbank"
-
-[[repo]]
-url = "https://github.com/medaskalis/zero-to-dapp"
-
-[[repo]]
-url = "https://github.com/ronaldolipata/dbank"
-
-[[repo]]
-url = "https://github.com/Darshan1904/ICP_Project"
-
-[[repo]]
-url = "https://github.com/stenlisuryadinata/testnet_app"
-
-[[repo]]
-url = "https://github.com/KasunAb/TOKEN-KAS"
-
-[[repo]]
-url = "https://github.com/nikhilchopra08/EstateHub"
-
-[[repo]]
-url = "https://github.com/kristoferlund/ic-use-internet-identity"
-
-[[repo]]
-url = "https://github.com/tolgayayci/dfinity-dfx-gui"
-
-[[repo]]
-url = "https://github.com/onyekachi11/Verxio-ICP-Zero-To-dApp"
-
-[[repo]]
-url = "https://github.com/amdonatusprince/verxio-areon"
-
-[[repo]]
-url = "https://github.com/tobiaswu/icp-hackathon"
-
-[[repo]]
-url = "https://github.com/divin3circle/inua_dao"
-
-[[repo]]
-url = "https://github.com/Bolee95/icp-name-service"
-
-[[repo]]
-url = "https://github.com/v2i0s2h2/ICP-JobPortal"
-
-[[repo]]
-url = "https://github.com/dihanto/chaingram"
-
-[[repo]]
-url = "https://github.com/danielkiprotich/task-manager-ICP"
-
-[[repo]]
-url = "https://github.com/dev-0015/Food-Delivery-Tracking-System-Smart-Contract-"
-
-[[repo]]
-url = "https://github.com/abdul-abdi/loan-application-system"
-
-[[repo]]
-url = "https://github.com/JoE11-y/ICP-Lottery-DApp"
-
-[[repo]]
-url = "https://github.com/alexjolly28/dfinity_canister_rust_learning"
-
-[[repo]]
-url = "https://github.com/sergey-melnychuk/icp-onchain-ecdsa"
-
-[[repo]]
-url = "https://github.com/JessAYrn/oso-wallet"
-
-[[repo]]
-url = "https://github.com/psykomal-baz/post_upgrade_exp"
-
-[[repo]]
-url = "https://github.com/nuwrldnf8r/geosearch_canister"
-
-[[repo]]
-url = "https://github.com/rem-code-s/query_blocks"
-
-[[repo]]
-url = "https://github.com/cymqqqq/quers-canister"
-
-[[repo]]
-url = "https://github.com/elsangra/hospital_system"
-
-[[repo]]
-url = "https://github.com/amschel99/Dvote"
-
-[[repo]]
-url = "https://github.com/vivekjami/goals"
-
-[[repo]]
-url = "https://github.com/Momo153-sys/ICP-homework-practice"
-
-[[repo]]
-url = "https://github.com/grandzero/dhooks"
-
-[[repo]]
-url = "https://github.com/msmsolution/week3project"
-
-[[repo]]
-url = "https://github.com/jeshli/rust-connect-py-ai-to-ic"
-
-[[repo]]
-url = "https://github.com/nathanosdev/dfx-playground"
-
-[[repo]]
-url = "https://github.com/mervanerenci/ICP_NFT_DIP721"
-
-[[repo]]
-url = "https://github.com/peter-0015/Renewable-Energy-Credit-Management-System"
-
-[[repo]]
-url = "https://github.com/senior-0015/Blood-Donation-Drive-Smart-Contract"
-
-[[repo]]
-url = "https://github.com/wasm-forge/stable-fs"
-
-[[repo]]
-url = "https://github.com/EfsaTortukk/my-first-rust-project"
-
-[[repo]]
-url = "https://github.com/OSK-GITHUBB/first_icp_project"
-
-[[repo]]
-url = "https://github.com/Umudvarr/InternetComputerNetwork"
-
-[[repo]]
-url = "https://github.com/vitalvirtue/ICP_smart_contract_weather_app"
-
-[[repo]]
-url = "https://github.com/ava-vs/doctoken"
-
-[[repo]]
-url = "https://github.com/Gekctek/farcaster-frame"
-
-[[repo]]
-url = "https://github.com/sagcryptoicp/alfangodb"
-
-[[repo]]
-url = "https://github.com/bittoko/tecdsa"
-
-[[repo]]
-url = "https://github.com/ava-vs/reputation"
-
-[[repo]]
-url = "https://github.com/hurrecansatis/zero-to-dapp"
-
-[[repo]]
-url = "https://github.com/letmejustputthishere/icrc7_launchpad"
-
-[[repo]]
-url = "https://github.com/paulous/p_00"
-
-[[repo]]
-url = "https://github.com/memind/JavascriptTechs"
-
-[[repo]]
-url = "https://github.com/iclighthouse/ICDex-Trader"
-
-[[repo]]
-url = "https://github.com/rjlee276/defi"
-
-[[repo]]
-url = "https://github.com/Darshan1904/NEXANOVA_ICP_TOKEN"
-
-[[repo]]
-url = "https://github.com/arif-mobiuso/Udemy-Course"
-
-[[repo]]
-url = "https://github.com/SharonAnyona/RealBlock_Motoko"
-
-[[repo]]
-url = "https://github.com/rjlee276/rjl-token"
-
-[[repo]]
-url = "https://github.com/johnolamide/rentmase"
-
-[[repo]]
-url = "https://github.com/dtroit75/consenUS"
-
-[[repo]]
-url = "https://github.com/amalendu123/d-bank"
-
-[[repo]]
-url = "https://github.com/carlek/petrinet_producer_consumer"
-
-[[repo]]
-url = "https://github.com/satish13579/academic_ecertificates"
-
-[[repo]]
-url = "https://github.com/jian-guo-s/contract-icp"
-
-[[repo]]
-url = "https://github.com/HiramZednem/ICP-CERTIFICATION"
-
-[[repo]]
-url = "https://github.com/nick-y-ito/ic-dkeeper"
-
-[[repo]]
-url = "https://github.com/dipanshuhappy/secret_recovery"
-
-[[repo]]
-url = "https://github.com/leoemcasa/webDevBootcamp"
-
-[[repo]]
-url = "https://github.com/nick-y-ito/ic-dbank"
-
-[[repo]]
-url = "https://github.com/Shounak31/Dbank"
-
-[[repo]]
-url = "https://github.com/Het13/Web-Development-Course"
-
-[[repo]]
-url = "https://github.com/mjjainmanvi/dBank"
-
-[[repo]]
-url = "https://github.com/diyagoyal18/DBank-motoko"
-
-[[repo]]
-url = "https://github.com/barrettk8090/dbank-motoko"
-
-[[repo]]
-url = "https://github.com/ashenafiab/Internet-Computer-ic-Projects"
-
-[[repo]]
-url = "https://github.com/bsababu/DeFi-DApps-dbank"
-
-[[repo]]
-url = "https://github.com/anand008186/Hello_ICP"
-
-[[repo]]
-url = "https://github.com/codebenderhq/dfinity-parceljs-bundler"
-
-[[repo]]
-url = "https://github.com/PrimLabs/isp_js_sdk"
-
-[[repo]]
-url = "https://github.com/PrimLabs/databox-js-sdk"
-
-[[repo]]
-url = "https://github.com/triipme/basic_referral_motoko_sample"
-
-[[repo]]
-url = "https://github.com/DepartureLabsIC/dl_events"
-
-[[repo]]
-url = "https://github.com/DepartureLabsIC/dl_authorize"
-
-[[repo]]
-url = "https://github.com/DepartureLabsIC/quark-checkout"
-
-[[repo]]
-url = "https://github.com/flowerpowerdao/minting-page"
-
-[[repo]]
-url = "https://github.com/NatLabs/Itertools.mo"
-
-[[repo]]
-url = "https://github.com/NatLabs/MultiValueMap.mo"
-
-[[repo]]
-url = "https://github.com/NatLabs/RootishBuffer"
-
-[[repo]]
-url = "https://github.com/NatLabs/certified-assets"
-
-[[repo]]
-url = "https://github.com/Itoka-DAO/icxrp"
-
-[[repo]]
-url = "https://github.com/AstroxNetwork/astrox-js"
-
-[[repo]]
-url = "https://github.com/AstroxNetwork/MultiSig"
-
-[[repo]]
-url = "https://github.com/AstroxNetwork/flutter_webf_plugins"
-
-[[repo]]
-url = "https://github.com/AstroxNetwork/ord_ic"
-
-[[repo]]
-url = "https://github.com/Bochslertech/azle"
-
-[[repo]]
-url = "https://github.com/icpipeline-framework/manager-alpha"
-
-[[repo]]
-url = "https://github.com/icpipeline-framework/uplink-alpha"
-
-[[repo]]
-url = "https://github.com/WEARFITS/dfinity"
-
-[[repo]]
-url = "https://github.com/research-ag/canister-profiling"
-
-[[repo]]
-url = "https://github.com/research-ag/hpl-stats"
-
-[[repo]]
-url = "https://github.com/research-ag/streams"
-
-[[repo]]
-url = "https://github.com/perun-network/perun-icp-backend"
-
-[[repo]]
-url = "https://github.com/ShikuLabs/vote_canister"
-
-[[repo]]
-url = "https://github.com/ShikuLabs/ext_based_dip721_lib"
-
-[[repo]]
-url = "https://github.com/ShikuLabs/canister_factory"
-
-[[repo]]
-url = "https://github.com/prisma-video/IC-data-NFTs"
-
-[[repo]]
-url = "https://github.com/Orally-Network/app"
-
-[[repo]]
-url = "https://github.com/earthwallet/assets"
-
-[[repo]]
-url = "https://github.com/onehilltech/ember-cli-dfinity"
-
-[[repo]]
-url = "https://github.com/icopen/light_ic"
-
-[[repo]]
-url = "https://github.com/buildwithjuno/juno-js"
-
-[[repo]]
-url = "https://github.com/buildwithjuno/cli"
-
-[[repo]]
-url = "https://github.com/Code-and-State/simple-website"
-
-[[repo]]
-url = "https://github.com/Code-and-State/motoko-bootcamp-workspace"
-
-[[repo]]
-url = "https://github.com/Code-and-State/typescript-bootcamp"
-
-[[repo]]
-url = "https://github.com/worldofunreal/IC-Hub-React"
-
-[[repo]]
-url = "https://github.com/worldofunreal/chatsdk"
-
-[[repo]]
-url = "https://github.com/orally-network/sybil"
-
-[[repo]]
-url = "https://github.com/orally-network/pythia"
-
-[[repo]]
-url = "https://github.com/orally-network/apollo"
-
-[[repo]]
-url = "https://github.com/sonicdex/sonic-app"
-
-[[repo]]
-url = "https://github.com/sonicdex/icrc-1-public"
-
-[[repo]]
-url = "https://github.com/sonicdex/motoko-token-canister"
-
-[[repo]]
-url = "https://github.com/SysLogica/windoge98-vue"
-
-[[repo]]
-url = "https://github.com/EMCProtocol-dev/EMC-Dashboard"
-
-[[repo]]
-url = "https://github.com/EMCProtocol-dev/EMC-Presale"
-
-[[repo]]
-url = "https://github.com/horizonx-tech/chainsight-sdk"
-
-[[repo]]
-url = "https://github.com/KompeteKeeda/kk-fe"
-
-[[repo]]
-url = "https://github.com/Zona-Tres/building-in-icp-with-azle"
-
-[[repo]]
-url = "https://github.com/Zona-Tres/azle-wallet"
-
-[[repo]]
-url = "https://github.com/NOBLBLOCKS/NOBLEBLOCKS-PUBLIC"
-
-[[repo]]
-url = "https://github.com/Mate-Sol/Payment-Canister-ICP"
-
-[[repo]]
-url = "https://github.com/Mate-Sol/Finance-Canister-ICP"
-
-[[repo]]
-url = "https://github.com/hadronous/ic-angular"
-
-[[repo]]
-url = "https://github.com/samlinux-development/ic-svelte-starter"
-
-[[repo]]
-url = "https://github.com/samlinux-development/ic-svelte"
-
-[[repo]]
-url = "https://github.com/samlinux-development/ic-astro-svelte"
-
-[[repo]]
-url = "https://github.com/samlinux-development/ic-sveltekit"
-
-[[repo]]
-url = "https://github.com/yukuapp/canister-factory"
-
-[[repo]]
-url = "https://github.com/hackathon-mastery-indonesia/certifolio_backend"
-
-[[repo]]
-url = "https://github.com/vibeverse-team/vibe-token"
-
-[[repo]]
-url = "https://github.com/Neutrinomic/icrc1_ape_20"
-
-[[repo]]
-url = "https://github.com/Neutrinomic/defivectors"
-
-[[repo]]
-url = "https://github.com/Neutrinomic/defi_aggregator"
-
-[[repo]]
-url = "https://github.com/Neutrinomic/external_gf_validators"
-
-[[repo]]
-url = "https://github.com/ic0-computer/ic0-computer"
-
-[[repo]]
-url = "https://github.com/ic0-computer/tools"
-
-[[repo]]
-url = "https://github.com/ic0-computer/connect2ic-fork"
-
-[[repo]]
-url = "https://github.com/ic0-computer/connectr"
-
-[[repo]]
-url = "https://github.com/Vault-Bets/templates"
-
-[[repo]]
-url = "https://github.com/veeso-dev/icrc2-template-canister"
-
-[[repo]]
-url = "https://github.com/bundlydev/ic-connect-js"
-
-[[repo]]
-url = "https://github.com/yaodongdui/ydd-icp"
-
-[[repo]]
-url = "https://github.com/Sama-X/sama_icp"
-
-[[repo]]
-url = "https://github.com/modclub-app/rust-connect-py-ai-to-ic"
-
-[[repo]]
-url = "https://github.com/DoxaFoundation/DoxaDollar"
-
-[[repo]]
-url = "https://github.com/CypherForms/CypherForms"
-
-[[repo]]
-url = "https://github.com/acaentequila/ethcdm-reservations"
-
-[[repo]]
-url = "https://github.com/nuktalab/safechain-react"
-
-[[repo]]
-url = "https://github.com/Shamba-Kikwetu/SK-ICP"
-
+url = "https://github.com/gokselhkn/motoko_workshop"

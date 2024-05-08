@@ -1,6 +1,11 @@
+# Ecosystem Level Information
 title = "DFINITY"
+
 sub_ecosystems = []
+
 github_organizations = ["https://github.com/dfinity"]
+
+# Repositories
 [[repo]]
 url = "https://github.com/aginamena/Joinedafrica.com"
 missing = true
@@ -151,13 +156,24 @@ url = "https://github.com/dfinity/bitcoin-canister"
 url = "https://github.com/dfinity/bitcoin-developer-preview"
 
 [[repo]]
+url = "https://github.com/dfinity/bitcoin-library"
+missing = true
+
+[[repo]]
 url = "https://github.com/dfinity/bls12_381"
+
+[[repo]]
+url = "https://github.com/dfinity/canbench"
 
 [[repo]]
 url = "https://github.com/dfinity/cancan"
 
 [[repo]]
 url = "https://github.com/dfinity/candid"
+
+[[repo]]
+url = "https://github.com/dfinity/canister-monitor"
+missing = true
 
 [[repo]]
 url = "https://github.com/dfinity/canister-profiling"
@@ -183,6 +199,10 @@ url = "https://github.com/dfinity/cns"
 
 [[repo]]
 url = "https://github.com/dfinity/conventional-pr-title-action"
+
+[[repo]]
+url = "https://github.com/dfinity/cycle-ledger"
+missing = true
 
 [[repo]]
 url = "https://github.com/dfinity/cycles-burner-canister"
@@ -221,6 +241,10 @@ url = "https://github.com/dfinity/embed-motoko"
 url = "https://github.com/dfinity/erc20-icp"
 
 [[repo]]
+url = "https://github.com/dfinity/erc20_icrc_adapter"
+missing = true
+
+[[repo]]
 url = "https://github.com/dfinity/examples"
 
 [[repo]]
@@ -231,6 +255,10 @@ url = "https://github.com/dfinity/experimental-minting-tool"
 
 [[repo]]
 url = "https://github.com/dfinity/feedback"
+
+[[repo]]
+url = "https://github.com/dfinity/firefox-extension-asset-verification"
+missing = true
 
 [[repo]]
 url = "https://github.com/dfinity/fm-catalogue"
@@ -274,7 +302,15 @@ url = "https://github.com/dfinity/http-proxy"
 url = "https://github.com/dfinity/ic"
 
 [[repo]]
+url = "https://github.com/dfinity/ic-burp-extension"
+missing = true
+
+[[repo]]
 url = "https://github.com/dfinity/ic-docutrack"
+
+[[repo]]
+url = "https://github.com/dfinity/ic-eth"
+missing = true
 
 [[repo]]
 url = "https://github.com/dfinity/ic-eth-starter"
@@ -320,10 +356,24 @@ url = "https://github.com/dfinity/icp-forecast"
 missing = true
 
 [[repo]]
+url = "https://github.com/dfinity/icp-hello-world-motoko"
+
+[[repo]]
+url = "https://github.com/dfinity/icp-hello-world-rust"
+
+[[repo]]
+url = "https://github.com/dfinity/icp-quiz"
+missing = true
+
+[[repo]]
 url = "https://github.com/dfinity/ICRC"
 
 [[repo]]
 url = "https://github.com/dfinity/ICRC-1"
+
+[[repo]]
+url = "https://github.com/dfinity/icrc1-tools"
+missing = true
 
 [[repo]]
 url = "https://github.com/dfinity/icx-nns"
@@ -335,6 +385,10 @@ url = "https://github.com/dfinity/icx-proxy"
 url = "https://github.com/dfinity/idl2json"
 
 [[repo]]
+url = "https://github.com/dfinity/II-Cognito-Integration"
+missing = true
+
+[[repo]]
 url = "https://github.com/dfinity/interface-spec"
 
 [[repo]]
@@ -342,6 +396,10 @@ url = "https://github.com/dfinity/internet-identity"
 
 [[repo]]
 url = "https://github.com/dfinity/invoice-canister"
+
+[[repo]]
+url = "https://github.com/dfinity/ios-notification-poc"
+missing = true
 
 [[repo]]
 url = "https://github.com/dfinity/journald-parser"
@@ -376,6 +434,10 @@ missing = true
 
 [[repo]]
 url = "https://github.com/dfinity/keysmith"
+
+[[repo]]
+url = "https://github.com/dfinity/landing"
+missing = true
 
 [[repo]]
 url = "https://github.com/dfinity/ledger-ref"
@@ -437,6 +499,10 @@ url = "https://github.com/dfinity/oid-registry"
 url = "https://github.com/dfinity/oisy-wallet"
 
 [[repo]]
+url = "https://github.com/dfinity/orbit-wallet"
+missing = true
+
+[[repo]]
 url = "https://github.com/dfinity/pocketic"
 
 [[repo]]
@@ -447,6 +513,10 @@ url = "https://github.com/dfinity/portal"
 
 [[repo]]
 url = "https://github.com/dfinity/prettier-plugin-motoko"
+
+[[repo]]
+url = "https://github.com/dfinity/preview-canister-pool"
+missing = true
 
 [[repo]]
 url = "https://github.com/dfinity/prost"
@@ -503,7 +573,23 @@ url = "https://github.com/dfinity/sev-tool"
 url = "https://github.com/dfinity/sevctl"
 
 [[repo]]
+url = "https://github.com/dfinity/show-me-the-ic"
+missing = true
+
+[[repo]]
 url = "https://github.com/dfinity/smartcontracts.org"
+
+[[repo]]
+url = "https://github.com/dfinity/SmileyDapp"
+missing = true
+
+[[repo]]
+url = "https://github.com/dfinity/sns-1-canisters"
+missing = true
+
+[[repo]]
+url = "https://github.com/dfinity/sns-cache"
+missing = true
 
 [[repo]]
 url = "https://github.com/dfinity/sns-js"
@@ -514,6 +600,10 @@ url = "https://github.com/dfinity/sns-quill"
 
 [[repo]]
 url = "https://github.com/dfinity/sns-testing"
+
+[[repo]]
+url = "https://github.com/dfinity/sns_sale_playground"
+missing = true
 
 [[repo]]
 url = "https://github.com/dfinity/snsdemo"
@@ -527,6 +617,9 @@ url = "https://github.com/dfinity/standalone-sig-verifier-web"
 [[repo]]
 url = "https://github.com/dfinity/starfish"
 missing = true
+
+[[repo]]
+url = "https://github.com/dfinity/subnet-rental-canister"
 
 [[repo]]
 url = "https://github.com/dfinity/test-compliant-repository-public"
@@ -547,6 +640,14 @@ missing = true
 
 [[repo]]
 url = "https://github.com/dfinity/tla-models"
+
+[[repo]]
+url = "https://github.com/dfinity/utopia-demo"
+missing = true
+
+[[repo]]
+url = "https://github.com/dfinity/vc-util-web"
+missing = true
 
 [[repo]]
 url = "https://github.com/dfinity/vector"
@@ -578,10 +679,18 @@ url = "https://github.com/dfinity/wasm-tools"
 url = "https://github.com/dfinity/wasmtime-hs"
 
 [[repo]]
+url = "https://github.com/dfinity/website-on-chain-60s"
+missing = true
+
+[[repo]]
 url = "https://github.com/dfinity/wg-governance"
 
 [[repo]]
 url = "https://github.com/dfinity/wg-identity-authentication"
+
+[[repo]]
+url = "https://github.com/dfinity/x2candid_rs"
+missing = true
 
 [[repo]]
 url = "https://github.com/dipanshuhappy/gyro-icp"
@@ -712,208 +821,3 @@ url = "https://github.com/Wreck-X/Souffle"
 
 [[repo]]
 url = "https://github.com/Zondax/icp-client-cpp"
-
-[[repo]]
-url = "https://github.com/dfinity/bitcoin-library"
-
-[[repo]]
-url = "https://github.com/dfinity/cycle-ledger"
-
-[[repo]]
-url = "https://github.com/dfinity/awesome-icp"
-
-[[repo]]
-url = "https://github.com/dfinity/nginx-module-cbor-input"
-
-[[repo]]
-url = "https://github.com/dfinity/assemblyscript"
-
-[[repo]]
-url = "https://github.com/dfinity/bls"
-
-[[repo]]
-url = "https://github.com/dfinity/bls-tmp"
-
-[[repo]]
-url = "https://github.com/dfinity/bn"
-
-[[repo]]
-url = "https://github.com/dfinity/dhc"
-
-[[repo]]
-url = "https://github.com/dfinity/dhc-js"
-
-[[repo]]
-url = "https://github.com/dfinity/dkg"
-
-[[repo]]
-url = "https://github.com/dfinity/docker-sgx"
-
-[[repo]]
-url = "https://github.com/dfinity/duosign"
-
-[[repo]]
-url = "https://github.com/dfinity/go-dfinity-crypto"
-
-[[repo]]
-url = "https://github.com/dfinity/gossip"
-
-[[repo]]
-url = "https://github.com/dfinity/hs-riemann"
-
-[[repo]]
-url = "https://github.com/dfinity/hs-stun"
-
-[[repo]]
-url = "https://github.com/dfinity/js-bls-lib"
-
-[[repo]]
-url = "https://github.com/dfinity/js-dfinity-block"
-
-[[repo]]
-url = "https://github.com/dfinity/js-dfinity-radix-tree"
-
-[[repo]]
-url = "https://github.com/dfinity/js-dfinity-tx"
-
-[[repo]]
-url = "https://github.com/dfinity/js-libp2p-gossip-discovery"
-
-[[repo]]
-url = "https://github.com/dfinity/js-primea-client"
-
-[[repo]]
-url = "https://github.com/dfinity/llvm-general-typed"
-
-[[repo]]
-url = "https://github.com/dfinity/mcl"
-
-[[repo]]
-url = "https://github.com/dfinity/mcl-tmp"
-
-[[repo]]
-url = "https://github.com/dfinity/nano"
-
-[[repo]]
-url = "https://github.com/dfinity/network-monitor"
-
-[[repo]]
-url = "https://github.com/dfinity/nixpkgs"
-
-[[repo]]
-url = "https://github.com/dfinity/nns-js"
-
-[[repo]]
-url = "https://github.com/dfinity/nns-proposals"
-
-[[repo]]
-url = "https://github.com/dfinity/packunused"
-
-[[repo]]
-url = "https://github.com/dfinity/random-beacon"
-
-[[repo]]
-url = "https://github.com/dfinity/rust-haskell-ffi"
-
-[[repo]]
-url = "https://github.com/dfinity/secp256k1-haskell"
-
-[[repo]]
-url = "https://github.com/dfinity/STIFTUNG-DFN-donations"
-
-[[repo]]
-url = "https://github.com/dfinity/stm"
-
-[[repo]]
-url = "https://github.com/dfinity/supercop.js"
-
-[[repo]]
-url = "https://github.com/dfinity/tests"
-
-[[repo]]
-url = "https://github.com/dfinity/vss"
-
-[[repo]]
-url = "https://github.com/dfinity/wasm-persist"
-
-[[repo]]
-url = "https://github.com/dfinity/winter"
-
-[[repo]]
-url = "https://github.com/dfinity/sns-1-canisters"
-
-[[repo]]
-url = "https://github.com/dfinity/landing"
-
-[[repo]]
-url = "https://github.com/dfinity/icp-quiz"
-
-[[repo]]
-url = "https://github.com/dfinity/show-me-the-ic"
-
-[[repo]]
-url = "https://github.com/dfinity/ios-notification-poc"
-
-[[repo]]
-url = "https://github.com/dfinity/website-on-chain-60s"
-
-[[repo]]
-url = "https://github.com/dfinity/firefox-extension-asset-verification"
-
-[[repo]]
-url = "https://github.com/dfinity/orbit-wallet"
-
-[[repo]]
-url = "https://github.com/dfinity/x2candid_rs"
-
-[[repo]]
-url = "https://github.com/dfinity/icrc1-tools"
-
-[[repo]]
-url = "https://github.com/dfinity/subnet-rental-canister"
-
-[[repo]]
-url = "https://github.com/dfinity/erc20_icrc_adapter"
-
-[[repo]]
-url = "https://github.com/dfinity/sns-cache"
-
-[[repo]]
-url = "https://github.com/dfinity/ic-eth"
-
-[[repo]]
-url = "https://github.com/dfinity/sns_sale_playground"
-
-[[repo]]
-url = "https://github.com/dfinity/canister-monitor"
-
-[[repo]]
-url = "https://github.com/dfinity/preview-canister-pool"
-
-[[repo]]
-url = "https://github.com/dfinity/SmileyDapp"
-
-[[repo]]
-url = "https://github.com/dfinity/ic-burp-extension"
-
-[[repo]]
-url = "https://github.com/dfinity/II-Cognito-Integration"
-
-[[repo]]
-url = "https://github.com/dfinity/icp-hello-world"
-
-[[repo]]
-url = "https://github.com/dfinity/icp-hello-world-rust"
-
-[[repo]]
-url = "https://github.com/dfinity/vc-util-web"
-
-[[repo]]
-url = "https://github.com/dfinity/bench"
-
-[[repo]]
-url = "https://github.com/dfinity/utopia-demo"
-
-[[repo]]
-url = "https://github.com/dfinity/icp-hello-world-motoko"
-

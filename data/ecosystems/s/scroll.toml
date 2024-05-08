@@ -3,6 +3,7 @@ title = "Scroll"
 
 sub_ecosystems = [
   "Celer Network cBridge",
+  "DipDup",
   "Eigen Network",
   "ISSUAA",
   "LayerZero",
@@ -11,7 +12,52 @@ sub_ecosystems = [
   "SyncSwap",
   "XY Finance",
   "zkRollups.xyz",
-]
+  "4EVERLAND",
+  "Aave",
+  "Aboard Exchange",
+  "Ankr",
+  "Axelar Network", 
+  "Bware Labs",
+  "BlockPi Network",
+  "Chainge Finance",
+  "Chainlink",
+  "Chainstack",
+  "Coin98",
+  "Deri Protocol",
+  "DODO",
+  "Espresso Systems",
+  "Etherspot",
+  "imToken", 
+  "iZUMi.finance",
+  "Masa Finance",
+  "Mask Network",
+  "Meson",
+  "Metavault DAO",
+  "NerveNetwork",
+  "NFTScan",
+  "OmniBTC",
+  "OpenOcean",
+  "Orbiter Finance",
+  "Poolshark Protocol",
+  "Pyth Network",
+  "Redstone Finance",
+  "Reservoir Protocol",
+  "Natural Selection Labs  (RSS3)",
+  "Rubic",
+  "Sablier Finance",
+  "Safe Ecosystem",
+  "Seedify.fund",
+  "sentio.xyz",
+  "Stargate",
+  "Symmetry",
+  "SynFutures",
+  "The Graph",
+  "TokenPocket", 
+  "Transit Finance",
+  "Witnet" ,
+  "Wombat Exchange", 
+  "WOWswap"
+  ]
 
 github_organizations = ["https://github.com/scroll-tech"]
 
@@ -452,6 +498,9 @@ url = "https://github.com/CSWellesSun/Want3-ETHOnline"
 
 [[repo]]
 url = "https://github.com/cwkang1998/facade"
+
+[[repo]]
+url = "https://github.com/czbag/scroll"
 
 [[repo]]
 url = "https://github.com/d0wnlore/blackpool"
@@ -2598,6 +2647,3 @@ url = "https://github.com/zksynth/app-frontend"
 
 [[repo]]
 url = "https://github.com/zkvrf/zkvrf"
-
-[[repo]]
-url = "https://github.com/czbag/scroll"
